@@ -121,7 +121,6 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Guia gratuito para aprender Assembly x86.*  
   **Como estudar:** Desenvolva pequenos programas para entender conceitos.
 
--   
 
 ---
 
