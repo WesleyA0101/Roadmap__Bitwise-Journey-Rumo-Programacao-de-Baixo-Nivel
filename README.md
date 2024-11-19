@@ -67,17 +67,17 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 *Documentação oficial da Microsoft sobre C++.*  
 **Como estudar:** Embora o C++ seja uma extensão do C, entender as diferenças e semelhanças entre as duas linguagens pode ser valioso para um programador de baixo nível.
 
-### 📖 [**Linguagem C - Guia Completo**](https://embarcados.com.br/linguagem-c-guia-completo/)
+#### 📖 [**Linguagem C - Guia Completo**](https://embarcados.com.br/linguagem-c-guia-completo/)
 
-### 📘 [**Manual dos Iniciantes em C**](https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/)
+#### 📘 [**Manual dos Iniciantes em C**](https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/)
 
-### 📚 [**Manoel Campos - Dicas de Linguagem C**](https://manoelcampos.gitbooks.io/logica-programacao/content/dicas-linguagem-c.html)
+#### 📚 [**Manoel Campos - Dicas de Linguagem C**](https://manoelcampos.gitbooks.io/logica-programacao/content/dicas-linguagem-c.html)
 
-### 🛠️ [**Exemplos em C**](https://www.ime.usp.br/~rt/mmfina/NotaCmatr.pdf)
+#### 🛠️ [**Exemplos em C**](https://www.ime.usp.br/~rt/mmfina/NotaCmatr.pdf)
 
-### 📄 [**Manual da Sintaxe C**](https://www.feg.unesp.br/Home/PaginasPessoais/profmarcosapereira3168/programacaodecomputadoresi/manual-de-sintaxe-da-linguagem-c.pdf)
+#### 📄 [**Manual da Sintaxe C**](https://www.feg.unesp.br/Home/PaginasPessoais/profmarcosapereira3168/programacaodecomputadoresi/manual-de-sintaxe-da-linguagem-c.pdf)
 
-### 📘 [**Guia Completo de C**](https://embarcados.com.br/linguagem-c-guia-completo/)
+#### 📘 [**Guia Completo de C**](https://embarcados.com.br/linguagem-c-guia-completo/)
 
 #### 🚀 [**Linguagem C - Primeiros Passos**](https://github.com/professorjosedeassis/Linguagem-C)  
 *Repositório com conteúdos básicos e exemplos introdutórios para começar com a linguagem C.*
