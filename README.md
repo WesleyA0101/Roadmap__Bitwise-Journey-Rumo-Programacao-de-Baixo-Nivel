@@ -12,19 +12,23 @@
 ---
 
 ## 💀 **Criado por WesleyA0101**
-Esse rodmap recebera atualizações com adições de novos conteúdos 
+Esse rodmap receberá atualizações com adições de novos conteúdos.
 
 ---
 
 ## 📖 **Tabela de Conteúdo**
-- [1. Fundamentos Sólidos de Programação e Sistemas Operacionais](#1-fundamentos-sólidos-de-programação-e-sistemas-operacionais)
+- [1. Fundamentos Sólidos de Programação e Sistemas Operacionais](#1-fundamentos-sólidos-de-programação-e-sistemas-operacionai)
 - [2. Programação no Baixo Nível (Assembly e Arquitetura)](#2-programação-no-baixo-nível-assembly-e-arquitetura)
 - [3. Desenvolvimento e Contribuição para Projetos de Baixo Nível](#3-desenvolvimento-e-contribuição-para-projetos-de-baixo-nível)
 - [4. Computação Avançada e Algoritmos](#4-computação-avançada-e-algoritmos)
 - [5. Interfaces de Usuário e Desenvolvimento Gráfico](#5-interfaces-de-usuário-e-desenvolvimento-gráfico)
 - [6. Explorar Outras Linguagens para Expansão de Habilidades](#6-explorar-outras-linguagens-para-expansão-de-habilidades)
 - [7. Filosofia e Cultura do Software Livre](#7-filosofia-e-cultura-do-software-livre)
-
+- [8. Canais de YouTube sobre Programação e Tecnologia](#8-canais-de-youtube-sobre-programação-e-tecnologia)
+- [9. Canais de Cursos sobre Programação e Tecnologia](#9-canais-de-cursos-sobre-programação-e-tecnologia)
+- [10. Canais de cursos no Telegram](#10-canais-de-cursos-no-telegram)
+- [11. Filmes e documentários](#11-filmes-e-documentários)
+  
 ---
 
 ## 1. 🛠 **Fundamentos Sólidos de Programação e Sistemas Operacionais**
@@ -118,7 +122,7 @@ Esse rodmap recebera atualizações com adições de novos conteúdos
 
 ---
 
-## 6. 🌐 **Explorar Outras Linguagens**
+## 6. 🌐 **Explorar Outras Linguagens para Expansão de Habilidades**
 - 📖 [**Programming: Principles and Practice Using C++**](https://www.amazon.com.br/Programming-Principles-Practice-Using-2nd/dp/0321992784)  
   *Introdução ao C++ pelo criador da linguagem.*  
   **Como estudar:** Leia e implemente exemplos, criando seus próprios projetos.
@@ -132,4 +136,73 @@ Esse rodmap recebera atualizações com adições de novos conteúdos
 
 ---
 
-<p align="center">🚀 Comece sua jornada para dominar o mundo de baixo nível! 🚀</p>
+## 8. 📺 **Canais de YouTube sobre Programação e Tecnologia**
+- [**Computerphile**](https://www.youtube.com/user/Computerphile)  
+  *Explica conceitos de ciência da computação e programação de maneira acessível.*
+
+- [**Ben Eater**](https://www.youtube.com/c/BenEater)  
+  *Ensina arquitetura de computadores e como construir computadores do zero.*
+
+- [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain)  
+  *Ensina programação e criação de projetos interativos com Processing e P5.js.*
+
+- [**Academind**](https://www.youtube.com/c/Academind)  
+  *Tutoriais sobre desenvolvimento web, backend e frameworks populares como React e Node.js.*
+
+- [**Linux Academy**](https://www.youtube.com/c/LinuxAcademy)  
+  *Canal focados em Linux, DevOps, segurança e infraestrutura.*
+  
+- [**Diolinux**](https://www.youtube.com/@Diolinux)
+  *Canal de tecnologia*
+  
+- [**Attekita Dev**](https://www.youtube.com/@attekitadev)
+  *Canal de dicas de programação e o mercado de trabalho*
+  
+- [**Lucas Montano**](https://www.youtube.com/@LucasMontano)   
+  *Canal sobre programação e tecnologia*
+
+- [**Programe seu futuro**](https://www.youtube.com/@programeseufuturo)
+  *Canal de programação em C*
+
+- [**Bit por Bit**](https://www.youtube.com/@bitporbit)
+  *Canal de ciência da computação*
+
+- [**Slackjaff**](https://www.youtube.com/@SlackJeff)
+  *Canal de tecnologia, focado em software livre, GNU/Linux e segurança*
+---
+
+## 9. 🎓 **Canais de Cursos sobre Programação e Tecnologia**
+- [**Udemy**](https://www.udemy.com)  
+  *Plataforma de cursos online com foco em tecnologia e programação.*
+
+- [**Coursera**](https://www.coursera.org)  
+  *Oferece cursos sobre ciência da computação, inteligência artificial e mais.* 
+
+- [**edX**](https://www.edx.org)  
+  *Plataforma educacional com cursos de universidades renomadas.*
+
+## 10. ☠️ **Canais de cursos no Telegram**
+- [**C, C++, C#**](t.me/+stag3p8cIbFmZGJh)
+
+- [**Pack C e C++**](https://t.me/+1v2gDJBzYmg4ODM5)
+
+- [**Fox programação**]( https://t.me/+8X-PoWixcCczOTgx)
+
+- [**Linux Admin - LinuxTips**](https://t.me/+R8EruouDOaQzNjdh)
+
+- [**Linux LPI**](https://t.me/+TZh3_14ByUI5Y2Nh)
+
+- [**Fox informática**](https://t.me/+3VMemk0PnFA3NjFh)
+  
+- [**Dev Lab Acervo**](t.me/devlabacervo)
+
+## 11. 🎬 **Filmes e documentários*
+- [**Revolution OS**](https://www.youtube.com/watch?v=Z3f-M43DiD4&t=680s)
+  *Documentário*
+  
+- [**The Code Linux**](https://www.youtube.com/watch?v=XvH8HpGfZrc)
+  *Documentário*
+
+- [**Piratas do Vale do silicio**](https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html)
+  *Filme*
+  
