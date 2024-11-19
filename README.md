@@ -33,19 +33,39 @@ Esse rodmap receberá atualizações com adições de novos conteúdos.
 
 ## 1. 🛠 **Fundamentos Sólidos de Programação e Sistemas Operacionais**
 
-### 🖥️ **Linguagem C**
-- 📚 [**The C Programming Language**](https://www.amazon.com.br/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)  
-  *O clássico essencial para aprender C.*  
-  **Como estudar:** Leia capítulo por capítulo e pratique com exercícios.
+### 🖥️ **Linguagem C/C++**
 
-- 📝 [**Learn C in Y Minutes**](https://learnxinyminutes.com/docs/c/)  
-  *Guia rápido para revisar conceitos da linguagem.*  
-  **Como estudar:** Use após estudar o livro K&R.
+A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na programação de baixo nível. Conhecer C é essencial para quem deseja entender como os sistemas operacionais funcionam e como a computação se relaciona diretamente com o hardware.
 
-- 🛠️ [**Beej's Guide to C Programming**](https://beej.us/guide/bgc/)  
-  *Guia prático sobre tópicos avançados como alocação de memória.*  
-  **Como estudar:** Implemente os exemplos e experimente modificações.
+#### 📚 [**The C Programming Language**](https://www.amazon.com.br/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+*O clássico essencial para aprender C.*  
+**Como estudar:** Leia capítulo por capítulo e pratique com exercícios. Este livro é considerado a "bíblia" para quem deseja aprender C.
 
+#### 📝 [**Learn C in Y Minutes**](https://learnxinyminutes.com/docs/c/)
+*Guia rápido para revisar conceitos da linguagem.*  
+**Como estudar:** Use este recurso como um guia de consulta rápida após estudar o livro K&R.
+
+#### 🛠️ [**Beej's Guide to C Programming**](https://beej.us/guide/bgc/)
+*Guia prático sobre tópicos avançados como alocação de memória.*  
+**Como estudar:** Implemente os exemplos práticos e experimente modificações para aprender na prática.
+
+#### 📖 [**Documentação do C**](https://devdocs.io/c/)
+*Documentação completa da linguagem C.*  
+**Como estudar:** Consulte frequentemente durante o desenvolvimento de seus projetos para entender as funções e recursos da linguagem.
+
+#### 📄 [**Documentação do C (Microsoft)**](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+*Documentação oficial da Microsoft sobre C.*  
+**Como estudar:** Aprofunde-se nos detalhes da implementação da linguagem e nos exemplos específicos para Windows.
+
+#### 📜 [**ISO/IEC 9899 - Linguagens de Programação - C**](https://www.open-std.org/jtc1/sc22/wg14/www/standards)
+*Padrão ISO da linguagem C.*  
+**Como estudar:** Consulte este documento para uma compreensão formal da linguagem C conforme a norma internacional.
+
+#### 📚 [**Documentação do C++ (Microsoft)**](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
+*Documentação oficial da Microsoft sobre C++.*  
+**Como estudar:** Embora o C++ seja uma extensão do C, entender as diferenças e semelhanças entre as duas linguagens pode ser valioso para um programador de baixo nível.
+
+  
 ### 🖥️ **Sistemas Operacionais**
 - 📖 [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
   *Uma introdução aos conceitos de sistemas operacionais.*  
@@ -80,6 +100,8 @@ Esse rodmap receberá atualizações com adições de novos conteúdos.
 - 🛠️ [**Introduction to x86 Assembly Language Programming**](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)  
   *Guia gratuito para aprender Assembly x86.*  
   **Como estudar:** Desenvolva pequenos programas para entender conceitos.
+
+-   
 
 ---
 
