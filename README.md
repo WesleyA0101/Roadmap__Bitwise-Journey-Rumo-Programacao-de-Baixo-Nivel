@@ -218,7 +218,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   
 - [**Dev Lab Acervo**](t.me/devlabacervo)
 
-## 11. 🎬 **Filmes e documentários*
+## 11. 🎬 **Filmes e documentários**
 - [**Revolution OS**](https://www.youtube.com/watch?v=Z3f-M43DiD4&t=680s)
   *Documentário*
   
