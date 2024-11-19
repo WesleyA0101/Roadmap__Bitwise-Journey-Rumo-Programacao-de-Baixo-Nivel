@@ -51,7 +51,7 @@ Esse rodmap recebera atualizações com adições de novos conteúdos
   *Um recurso avançado com exemplos práticos.*  
   **Como estudar:** Use para aprofundar os conceitos.
 
-- 🎓 [**MIT OpenCourseWare - Operating System Engineering**](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2006/)  
+- 🎓 [**MIT OpenCourseWare - Operating System Engineering**](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)  
   *Curso que explora a construção de sistemas operacionais.*  
   **Como estudar:** Assista às aulas e implemente projetos práticos.
 
