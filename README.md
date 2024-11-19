@@ -28,6 +28,8 @@ Esse rodmap receberá atualizações com adições de novos conteúdos.
 - [9. Canais de Cursos sobre Programação e Tecnologia](#9-canais-de-cursos-sobre-programação-e-tecnologia)
 - [10. Canais de cursos no Telegram](#10-canais-de-cursos-no-telegram)
 - [11. Filmes e documentários](#11-filmes-e-documentários)
+- [12. Sobre Linux](#material-sobre-linux)
+- [13. Aprendendo programação com games e guias](aprendendo-a-programar-com-games-guias)
   
 ---
 
@@ -65,7 +67,25 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 *Documentação oficial da Microsoft sobre C++.*  
 **Como estudar:** Embora o C++ seja uma extensão do C, entender as diferenças e semelhanças entre as duas linguagens pode ser valioso para um programador de baixo nível.
 
-  
+### 📖 [**Linguagem C - Guia Completo**](https://embarcados.com.br/linguagem-c-guia-completo/)
+
+### 📘 [**Manual dos Iniciantes em C**](https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/)
+
+### 📚 [**Manoel Campos - Dicas de Linguagem C**](https://manoelcampos.gitbooks.io/logica-programacao/content/dicas-linguagem-c.html)
+
+### 🛠️ [**Exemplos em C**](https://www.ime.usp.br/~rt/mmfina/NotaCmatr.pdf)
+
+### 📄 [**Manual da Sintaxe C**](https://www.feg.unesp.br/Home/PaginasPessoais/profmarcosapereira3168/programacaodecomputadoresi/manual-de-sintaxe-da-linguagem-c.pdf)
+
+### 📘 [**Guia Completo de C**](https://embarcados.com.br/linguagem-c-guia-completo/)
+
+#### 🚀 [**Linguagem C - Primeiros Passos**](https://github.com/professorjosedeassis/Linguagem-C)  
+*Repositório com conteúdos básicos e exemplos introdutórios para começar com a linguagem C.*
+
+#### 📂 [**Estrutura de Dados em C**](https://github.com/MilenaCarecho/EstruturaDeDados_C)  
+*Coleção de implementações e exemplos de estruturas de dados na linguagem C, ideal para aprofundar conhecimentos em algoritmos e lógica.*
+
+
 ### 🖥️ **Sistemas Operacionais**
 - 📖 [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
   *Uma introdução aos conceitos de sistemas operacionais.*  
@@ -227,4 +247,48 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 - [**Piratas do Vale do silicio**](https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html)
   *Filme*
+
+## 12. Material sobre Linux
+
+Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqui estão alguns recursos úteis que cobrem desde o básico até tópicos mais avançados.
+
+#### 📘 [**Matheus Teixeira - Linux SO Introdução**](https://wp.ufpel.edu.br/mateusteixeira/files/2019/03/aula_SO-Linux.pdf)
+*Introdução ao sistema operacional Linux, abordando os conceitos e funcionamento do sistema.*  
+**Como estudar:** Leia cada capítulo e tente aplicar o conhecimento em uma distribuição Linux.
+
+#### 📚 [**Linux Apostila**](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
+*Apostila completa sobre Linux, desde os conceitos básicos até tópicos mais avançados.*  
+**Como estudar:** Estude cada módulo de forma sequencial, praticando os exemplos apresentados.
+
+#### 📝 [**Guia Básico Linux**](https://www.e-tinet.com/linux/aprender-linux-iniciantes/)
+*Guia simples e direto para iniciantes no Linux.*  
+**Como estudar:** Ideal para quem está começando. Comece pelos conceitos básicos e aplique-os no seu terminal Linux.
+
+#### 🌐 [**Portal Linux**](https://www.aprendendolinux.com/)
+*Portal de aprendizado de Linux, com tutoriais e guias para todos os níveis.*  
+**Como estudar:** Explore os tutoriais disponíveis e experimente configurar seu próprio sistema Linux conforme o guia.
+
+## 13. **Aprendendo a Programar com Games e Guias**
+
+Aprenda programação de forma prática e divertida com recursos que combinam aprendizado interativo, desenvolvimento de jogos e guias técnicos avançados.
+
+### 🎮 [**Gigo Dev**](https://www.gigo.dev/home?gad_source=1&viewport=desktop)  
+*Uma plataforma interativa para aprender programação com desafios práticos e experiências gamificadas.*
+
+### 🎨 [**Molly Rocket**](https://mollyrocket.com/)  
+*Recursos incríveis para aprender desenvolvimento de jogos e sistemas, com vídeos e projetos detalhados.*
+
+### 🛠️ [**CoderCraft**](https://codecrafters.io/)  
+*Plataforma para construir réplicas de sistemas reais como Docker, Redis e muito mais, ideal para aprender os fundamentos de forma prática.*
+
+### 🖥️ [**Nand2Tetris**](https://www.nand2tetris.org/)  
+*Curso completo que ensina como construir um computador desde o hardware até a programação de alto nível.*
+
+### 💡 [**Embedded Artistry**](https://embeddedartistry.com/)  
+*Guias e recursos para desenvolvimento de sistemas embarcados, com foco em boas práticas e técnicas avançadas.*
+
+
+
+
+
   
