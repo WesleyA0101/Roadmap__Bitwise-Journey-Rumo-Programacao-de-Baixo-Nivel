@@ -453,10 +453,11 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 ---
 
 ## 14. 💻 **Hacker purista** 
+*Organizar links*
 
 ### 📜 **A Filosofia do Software Livre e a Ética Hacker**
 
-- 📖 [**Richard Stallman - Free Software, Free Society**](https://www.gnu.org/doc/fsfs/FreeSoftwareFreeSociety.pdf)  
+- 📖 [**Richard Stallman - Free Software, Free Society**](https://archive.org/details/Free_Software_Free_Society)  
   *O livro de Richard Stallman sobre a filosofia do software livre.*  
   **Como estudar:** Leia o livro e reflita sobre as implicações éticas do software livre e da privacidade digital.
 
@@ -464,11 +465,11 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Coleção de discursos e entrevistas com Richard Stallman sobre liberdade digital e software livre.*  
   **Como estudar:** Ouça as entrevistas e discursos para entender a visão radical do software livre e sua filosofia de liberdade digital.
 
-- 🖥️ [**The GNU Operating System**](https://www.gnu.org/gnu/gnu.html)  
+- 🖥️ [**The GNU Operating System**](https://www.gnu.org)  
   *A história e a filosofia por trás do sistema operacional GNU.*  
   **Como estudar:** Explore o projeto GNU e como ele busca promover a liberdade através do software.
 
-- 🧠 [**Hackers: Heroes of the Computer Revolution**](https://www.amazon.com.br/Hackers-Heroes-Computer-Revolution/dp/0961387119)  
+- 🧠 [**Hackers: Heroes of the Computer Revolution**](https://www.amazon.com.br/Hackers-Steven-Levy/dp/1449388396)  
   *Livro de Steven Levy que examina a cultura hacker e sua evolução.*  
   **Como estudar:** Leia para entender os fundamentos da cultura hacker e como ela se relaciona com a ética de Stallman.
 
@@ -476,15 +477,15 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Fundação que promove o software livre e os direitos digitais.*  
   **Como contribuir:** Doe para a FSF ou envolva-se com as campanhas de advocacia para a liberdade digital.
 
-- 🔓 [**The Hacker Ethic: A Radical Approach to the Philosophy of Technology**](https://www.amazon.com.br/Hacker-Ethic-Radical-Philosophy-Technology/dp/0071354893)  
+- 🔓 [**The Hacker Ethic: A Radical Approach to the Philosophy of Technology**](https://www.amazon.com.br/Hacker-Ethic-Approach-Philosophy-Business/dp/037575878X)  
   *Livro de Pekka Himanen que explora a ética hacker e sua relação com o mundo digital moderno.*  
   **Como estudar:** Leia o livro para entender como a ética hacker pode ser aplicada ao mundo atual e à inovação tecnológica.
 
-- 📚 [**GNU Manifesto**](https://www.gnu.org/gnu/gnu-manifesto.html)  
+- 📚 [**GNU Manifesto**](https://www.gnu.org/gnu/manifesto.pt-br.html)  
   *O manifesto de Richard Stallman, declarando a importância do software livre.*  
   **Como estudar:** Leia o manifesto para entender os princípios que moldam a comunidade de software livre.
 
-- 🌱 [**Filosofia Hacker e Liberdade Digital**](https://www.gnu.org/philosophy/philosophy.html)  
+- 🌱 [**Filosofia Hacker e Liberdade Digital**](https://app.uff.br/riuff/handle/1/12658)  
   *Artigos e ensaios sobre a liberdade digital e o movimento hacker.*  
   **Como estudar:** Explore os artigos e os debates sobre liberdade no software e na internet.
 
@@ -492,11 +493,11 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Construa seu próprio sistema operacional a partir do zero, um passo essencial para entender como os sistemas funcionam.*  
   **Como estudar:** Siga o tutorial e aprenda cada detalhe do processo de construção de um sistema Linux.
 
-- 🧑‍💻 [**Hackers: The Cultural Side of Hackerspace**](https://www.amazon.com.br/Hackers-Cultural-Side-Hackerspace-Culture/dp/1846947005)  
+- 🧑‍💻 [**Hackers: The Cultural Side of Hackerspace**](https://www.hackerspaces.org/)  
   *Livro sobre a cultura hacker e como se envolver em comunidades hacker puristas.*  
   **Como estudar:** Entenda como a cultura hacker pode ser aplicada ao seu desenvolvimento técnico e filosófico.
 
-- 📖 [**The Art of Exploitation**](https://www.amazon.com/Art-Exploitation-Exploit-Development-2nd/dp/1593271441)  
+- 📖 [**The Art of Exploitation**](https://archive.org/details/hackingtheartofexploitation_202003)  
   *Exploração de vulnerabilidades e desenvolvimento de exploits, uma leitura essencial para hackers de alto nível.*  
   **Como estudar:** Estude como explorar falhas e como implementar e testar exploits em um ambiente controlado.
 
