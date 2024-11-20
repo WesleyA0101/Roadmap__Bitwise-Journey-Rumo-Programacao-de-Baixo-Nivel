@@ -505,11 +505,8 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Introdução prática ao pentest, técnica fundamental para hackers puristas.*  
   **Como estudar:** Siga os exemplos práticos e implemente testes de segurança reais.
 
-- 📚 [**Metasploit Unleashed**](https://www.offensive-security.com/metasploit-unleashed/)  
-  *Tutorial completo sobre o uso do Metasploit, uma ferramenta essencial para hackers e pentesters.*  
-  **Como estudar:** Pratique a utilização das ferramentas do Metasploit em máquinas virtuais ou ambientes controlados.
 
-- 💡 [**Hackers Manifesto**](https://www.textfiles.com/ezines/PHILE/HACKER-MANIFESTO.TXT)  
+- 💡 [**Hackers Manifesto**(https://www.askapache.com/hacking/hacker-manifesto/)  
   *Manifesto hacker clássico que explica a filosofia de liberdade, curiosidade e subversão tecnológica.*  
   **Como estudar:** Leia e internalize a filosofia hacker de Richard Stallman e de outros hackers puristas.
 
@@ -517,7 +514,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Livro que discute como a ética hacker pode ser aplicada ao mundo moderno e como isso afeta nossa visão sobre a tecnologia.*  
   **Como estudar:** Leia para entender como a ética hacker molda a sociedade e seu desenvolvimento.
 
-- 📖 [**Cypherpunks: Freedom and the Future of the Internet**](https://www.amazon.com.br/Cypherpunks-Freedom-Future-Internet/dp/0995786002)  
+- 📖 [**Cypherpunks: Freedom and the Future of the Internet**](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1944869085)  
   *Discuta a filosofia cypherpunk, que é uma extensão da ética hacker focada na privacidade e na liberdade na internet.*  
   **Como estudar:** Leia e entenda como os cypherpunks influenciam a internet moderna e como isso se conecta à sua prática como hacker.
 
@@ -525,7 +522,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Livros sobre criatividade e inovação, essenciais para aprimorar a mentalidade hacker.*  
   **Como estudar:** Pratique a resolução criativa de problemas, utilizando a abordagem hacker para encontrar soluções inovadoras.
 
-- 🖥️ [**Reverse Engineering**](https://www.amazon.com.br/Practical-Reverse-Engineering-x86-64-Windows/dp/1118787310)  
+- 🖥️ [**Reverse Engineering**](https://www.amazon.com.br/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)  
   *Livro avançado sobre engenharia reversa e análise de código binário.*  
   **Como estudar:** Aprenda como desmontar e analisar programas para descobrir suas falhas e vulnerabilidades.
 
@@ -533,7 +530,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Recursos e treinamentos de pesquisa de segurança de ponta em eventos como Black Hat.*  
   **Como estudar:** Participe de eventos de segurança, como Black Hat, para aprender com os melhores e explorar as últimas técnicas.
 
-- 🛠️ [**Build Your Own Tools**](https://github.com)  
+- 🛠️ [**Build Your Own Tools**](https://www.instructables.com/The-Ultimate-Collection-of-DIY-Workshop-Tools/)  
   *Crie suas próprias ferramentas de hacking, como exploits, scanners de vulnerabilidades ou kits de pen-test.*  
   **Como estudar:** Explore códigos de ferramentas open-source, entenda sua arquitetura e crie suas próprias soluções.
 
