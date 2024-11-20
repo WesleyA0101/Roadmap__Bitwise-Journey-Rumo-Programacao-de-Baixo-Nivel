@@ -133,7 +133,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Curso do MIT que oferece uma visão detalhada sobre design e organização de computadores.*  
   **Como estudar:** Explore as aulas e os materiais adicionais para aprofundar o conhecimento.  
 
-- 🎥 [**Computer Architecture - Georgia Tech**](https://www.udacity.com/course/computer-architecture--ud104)  
+- 🎥 [**Computer Architecture - Georgia Tech**](https://www.scs.gatech.edu/computer-architecture)  
   *Série de videoaulas que abordam os fundamentos da arquitetura de computadores.*  
   **Como estudar:** Siga as videoaulas e implemente os exemplos apresentados.  
 
