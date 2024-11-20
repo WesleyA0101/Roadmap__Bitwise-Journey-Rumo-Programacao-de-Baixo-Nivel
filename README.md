@@ -206,7 +206,9 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 3. 🚀 **Desenvolvimento e Contribuição para Projetos de Baixo Nível**
+## 3. 🌐 **Desenvolvimento e Contribuição para Projetos de Baixo Nível, Open Source e Código Livre**
+
+### 🖥️ **Projetos de Baixo Nível**
 
 - 💻 [**MINIX 3**](https://wiki.minix3.org/doku.php)  
   *Sistema operacional UNIX-like para aprendizado.*  
@@ -220,17 +222,85 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Envie patches e aprenda colaborando no kernel.*  
   **Como estudar:** Comece corrigindo bugs simples.
 
+- 🔧 [**Bare Metal Programming**](https://github.com/cpq/bare-metal-programming-guide)  
+  *Programação diretamente no hardware sem um sistema operacional.*  
+  **Como estudar:** Siga tutoriais e experimente escrever código que interaja diretamente com o hardware.
+
+- 📚 [**OSDev.org**](https://osdev.org)  
+  *Recursos e tutoriais para desenvolvimento de sistemas operacionais.*  
+  **Como estudar:** Explore os tutoriais e participe dos fóruns para tirar dúvidas e compartilhar conhecimento.
+
+- 🖥️ [**Raspberry Pi Bare Metal**](https://github.com/bztsrc/raspi3-tutorial)  
+  *Desenvolvimento de software bare metal para Raspberry Pi.*  
+  **Como estudar:** Utilize a documentação oficial e projetos de exemplo para começar.
+
+### 🌍 **Projetos Open Source e Código Livre**
+
+- 🐧 [**GNU Project**](https://www.gnu.org/help/help.html)  
+  *Participe do desenvolvimento de softwares livres que respeitam a liberdade dos usuários.*  
+  **Como contribuir:** Explore os projetos ativos no site oficial, participe de discussões e contribua com código ou documentação.
+
+- 📂 [**FreeBSD Project**](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributing/)  
+  *Sistema operacional avançado de código aberto.*  
+  **Como contribuir:** Ajude no desenvolvimento, documentação ou suporte comunitário.
+
+- 🔓 [**Debian**](https://www.debian.org/devel/)  
+  *Sistema operacional baseado em GNU/Linux com foco em software livre.*  
+  **Como contribuir:** Participe do desenvolvimento de pacotes, teste versões ou ajude na tradução.
+
+- 🌟 [**Fedora Project**](https://fedoraproject.org/wiki/Join)  
+  *Comunidade global construindo uma plataforma de software livre para o futuro.*  
+  **Como contribuir:** Colabore em áreas como design, desenvolvimento, QA, ou marketing.
+
+- 🛠️ [**Arch Linux**](https://wiki.archlinux.org/title/Getting_involved)  
+  *Distribuição Linux minimalista e altamente customizável.*  
+  **Como contribuir:** Ajude com pacotes no AUR, contribua para a documentação ou reporte bugs.
+
+- 🤝 [**Open Source Guide**](https://opensource.guide/how-to-contribute/)  
+  *Aprenda como começar a contribuir em projetos open source.*  
+  **Como estudar:** Leia o guia para aprender boas práticas de contribuição e onde encontrar projetos para participar.
+
+- 🌍 [**Open Source Communities**](https://opensource.com/)  
+  *Portal de histórias e recursos para entusiastas de código aberto.*  
+  **Como participar:** Leia artigos, participe de discussões e descubra novas comunidades.
+
+- 🖥️ [**LibreOffice**](https://www.libreoffice.org/community/get-involved/)  
+  *Suite de produtividade de código aberto.*  
+  **Como contribuir:** Trabalhe em desenvolvimento, QA, tradução, ou documentação.
+
+- 🌟 [**KDE**](https://community.kde.org/Get_Involved)  
+  *Ambiente de desktop e aplicativos de código aberto.*  
+  **Como contribuir:** Colabore com desenvolvimento, design ou promoção da comunidade.
+
+- 🚀 [**Mozilla**](https://whatcanidoformozilla.org/)  
+  *Organização focada em manter a Internet aberta e acessível.*  
+  **Como contribuir:** Encontre projetos alinhados aos seus interesses e comece a colaborar.
+
+
 ---
 
 ## 4. 📊 **Computação Avançada e Algoritmos**
 
-- 📖 [**Introduction to Algorithms**](https://www.amazon.com.br/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)  
+- 📖 [**Introduction to Algorithms**](https://www.amazon.com.br/Introduction-Algorithms-3rd-MIT/dp/0262033844)  
   *Estruturas de dados e algoritmos em profundidade.*  
   **Como estudar:** Resolva problemas práticos em plataformas como LeetCode.
 
-- 🛠️ [**Let's Build a Compiler**](https://craftinginterpreters.com/)  
+- 🛠️ [**Let's Build a Compiler**](https://www.davidbuchmueller.com/lets-build-a-compiler/)  
   *Aprenda a construir um compilador simples.*  
   **Como estudar:** Siga os capítulos enquanto implementa as etapas.
+
+- 📚 [**Algorithms, Part I**](https://www.coursera.org/learn/algorithms-part1)  
+  *Curso online sobre algoritmos e estruturas de dados.*  
+  **Como estudar:** Inscreva-se no curso e complete os exercícios práticos.
+
+- 🔍 [**Algorithm Design Manual**](https://www.amazon.com.br/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)  
+  *Guia abrangente sobre design de algoritmos.*  
+  **Como estudar:** Leia o livro e implemente os algoritmos apresentados.
+
+- 🧠 [**Competitive Programming**](https://codeforces.com/)  
+  *Plataforma para praticar algoritmos em competições.*  
+  **Como estudar:** Participe de competições e resolva problemas desafiadores.
+
 
 ---
 
