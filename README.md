@@ -28,8 +28,9 @@ Esse rodmap receberá atualizações com adições de novos conteúdos.
 - [9. Canais de Cursos sobre Programação e Tecnologia](#9-canais-de-cursos-sobre-programação-e-tecnologia)
 - [10. Canais de cursos no Telegram](#10-canais-de-cursos-no-telegram)
 - [11. Filmes e documentários](#11-filmes-e-documentários)
-- [12. Sobre Linux](#material-sobre-linux)
-- [13. Aprendendo programação com games e guias](aprendendo-a-programar-com-games-guias)
+- [12. Sobre Linux](#12-material-sobre-linux)
+- [13. Aprendendo programação com games e guias](#13-aprendendo-a-programar-com-games-guias)
+- [14. Hacker purista](#14-hacker-purista)
   
 ---
 
@@ -438,6 +439,98 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 ### 💡 [**Embedded Artistry**](https://embeddedartistry.com/)  
 *Guias e recursos para desenvolvimento de sistemas embarcados, com foco em boas práticas e técnicas avançadas.*
 
+
+## 14. 💻 **Hacker purista** 
+
+### 📜 **A Filosofia do Software Livre e a Ética Hacker**
+
+- 📖 [**Richard Stallman - Free Software, Free Society**](https://www.gnu.org/doc/fsfs/FreeSoftwareFreeSociety.pdf)  
+  *O livro de Richard Stallman sobre a filosofia do software livre.*  
+  **Como estudar:** Leia o livro e reflita sobre as implicações éticas do software livre e da privacidade digital.
+
+- 🎤 [**Richard Stallman - Discursos e Entrevistas**](https://www.gnu.org/philosophy/philosophy.html)  
+  *Coleção de discursos e entrevistas com Richard Stallman sobre liberdade digital e software livre.*  
+  **Como estudar:** Ouça as entrevistas e discursos para entender a visão radical do software livre e sua filosofia de liberdade digital.
+
+- 🖥️ [**The GNU Operating System**](https://www.gnu.org/gnu/gnu.html)  
+  *A história e a filosofia por trás do sistema operacional GNU.*  
+  **Como estudar:** Explore o projeto GNU e como ele busca promover a liberdade através do software.
+
+- 🧠 [**Hackers: Heroes of the Computer Revolution**](https://www.amazon.com.br/Hackers-Heroes-Computer-Revolution/dp/0961387119)  
+  *Livro de Steven Levy que examina a cultura hacker e sua evolução.*  
+  **Como estudar:** Leia para entender os fundamentos da cultura hacker e como ela se relaciona com a ética de Stallman.
+
+- 🌐 [**Free Software Foundation (FSF)**](https://www.fsf.org/)  
+  *Fundação que promove o software livre e os direitos digitais.*  
+  **Como contribuir:** Doe para a FSF ou envolva-se com as campanhas de advocacia para a liberdade digital.
+
+- 🔓 [**The Hacker Ethic: A Radical Approach to the Philosophy of Technology**](https://www.amazon.com.br/Hacker-Ethic-Radical-Philosophy-Technology/dp/0071354893)  
+  *Livro de Pekka Himanen que explora a ética hacker e sua relação com o mundo digital moderno.*  
+  **Como estudar:** Leia o livro para entender como a ética hacker pode ser aplicada ao mundo atual e à inovação tecnológica.
+
+- 📚 [**GNU Manifesto**](https://www.gnu.org/gnu/gnu-manifesto.html)  
+  *O manifesto de Richard Stallman, declarando a importância do software livre.*  
+  **Como estudar:** Leia o manifesto para entender os princípios que moldam a comunidade de software livre.
+
+- 🌱 [**Filosofia Hacker e Liberdade Digital**](https://www.gnu.org/philosophy/philosophy.html)  
+  *Artigos e ensaios sobre a liberdade digital e o movimento hacker.*  
+  **Como estudar:** Explore os artigos e os debates sobre liberdade no software e na internet.
+
+- 💻 [**Linux From Scratch**](https://www.linuxfromscratch.org/)  
+  *Construa seu próprio sistema operacional a partir do zero, um passo essencial para entender como os sistemas funcionam.*  
+  **Como estudar:** Siga o tutorial e aprenda cada detalhe do processo de construção de um sistema Linux.
+
+- 🧑‍💻 [**Hackers: The Cultural Side of Hackerspace**](https://www.amazon.com.br/Hackers-Cultural-Side-Hackerspace-Culture/dp/1846947005)  
+  *Livro sobre a cultura hacker e como se envolver em comunidades hacker puristas.*  
+  **Como estudar:** Entenda como a cultura hacker pode ser aplicada ao seu desenvolvimento técnico e filosófico.
+
+- 📖 [**The Art of Exploitation**](https://www.amazon.com/Art-Exploitation-Exploit-Development-2nd/dp/1593271441)  
+  *Exploração de vulnerabilidades e desenvolvimento de exploits, uma leitura essencial para hackers de alto nível.*  
+  **Como estudar:** Estude como explorar falhas e como implementar e testar exploits em um ambiente controlado.
+
+- 🛠️ [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1118980010)  
+  *Introdução prática ao pentest, técnica fundamental para hackers puristas.*  
+  **Como estudar:** Siga os exemplos práticos e implemente testes de segurança reais.
+
+- 📚 [**Metasploit Unleashed**](https://www.offensive-security.com/metasploit-unleashed/)  
+  *Tutorial completo sobre o uso do Metasploit, uma ferramenta essencial para hackers e pentesters.*  
+  **Como estudar:** Pratique a utilização das ferramentas do Metasploit em máquinas virtuais ou ambientes controlados.
+
+- 💡 [**Hackers Manifesto**](https://www.textfiles.com/ezines/PHILE/HACKER-MANIFESTO.TXT)  
+  *Manifesto hacker clássico que explica a filosofia de liberdade, curiosidade e subversão tecnológica.*  
+  **Como estudar:** Leia e internalize a filosofia hacker de Richard Stallman e de outros hackers puristas.
+
+- 📚 [**The Hacker Ethic**](https://www.amazon.com.br/Hacker-Ethic-Radical-Philosophy-Technology/dp/0071354893)  
+  *Livro que discute como a ética hacker pode ser aplicada ao mundo moderno e como isso afeta nossa visão sobre a tecnologia.*  
+  **Como estudar:** Leia para entender como a ética hacker molda a sociedade e seu desenvolvimento.
+
+- 📖 [**Cypherpunks: Freedom and the Future of the Internet**](https://www.amazon.com.br/Cypherpunks-Freedom-Future-Internet/dp/0995786002)  
+  *Discuta a filosofia cypherpunk, que é uma extensão da ética hacker focada na privacidade e na liberdade na internet.*  
+  **Como estudar:** Leia e entenda como os cypherpunks influenciam a internet moderna e como isso se conecta à sua prática como hacker.
+
+- 🧠 [**Mentalidade Hacker: Criatividade e Inovação**](https://www.oreilly.com/library/view/creative-confidence/978038534936X/) 
+  *Livros sobre criatividade e inovação, essenciais para aprimorar a mentalidade hacker.*  
+  **Como estudar:** Pratique a resolução criativa de problemas, utilizando a abordagem hacker para encontrar soluções inovadoras.
+
+- 🖥️ [**Reverse Engineering**](https://www.amazon.com.br/Practical-Reverse-Engineering-x86-64-Windows/dp/1118787310)  
+  *Livro avançado sobre engenharia reversa e análise de código binário.*  
+  **Como estudar:** Aprenda como desmontar e analisar programas para descobrir suas falhas e vulnerabilidades.
+
+- 📚 [**Security Research and Development**](https://www.blackhat.com/)  
+  *Recursos e treinamentos de pesquisa de segurança de ponta em eventos como Black Hat.*  
+  **Como estudar:** Participe de eventos de segurança, como Black Hat, para aprender com os melhores e explorar as últimas técnicas.
+
+- 🛠️ [**Build Your Own Tools**](https://github.com)  
+  *Crie suas próprias ferramentas de hacking, como exploits, scanners de vulnerabilidades ou kits de pen-test.*  
+  **Como estudar:** Explore códigos de ferramentas open-source, entenda sua arquitetura e crie suas próprias soluções.
+
+- 🤝 [**Participar de Hackathons**](https://mlh.io/)  
+  *Hackathons são ótimas oportunidades para testar suas habilidades e aprender com outros hackers puristas.*  
+  **Como estudar:** Encontre hackathons locais ou online para participar e desafiar suas habilidades.
+
+- 🌍 [**Conferências de Segurança**](https://www.defcon.org/)  
+  *Defcon e outras conferências de segurança são lugares ideais para aprender com hackers de alto nível e debater sobre as últimas tendências.*  
+  **Como estudar:** Assista às palestras e workshops, participe de competições de segurança e converse com especialistas.
 
 
 
