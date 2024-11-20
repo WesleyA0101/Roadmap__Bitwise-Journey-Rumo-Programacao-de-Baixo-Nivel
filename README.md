@@ -237,9 +237,12 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ### 🌍 **Projetos Open Source e Código Livre**
 
-- 🐧 [**GNU Project**](https://www.gnu.org/help/help.html)  
+- 🐂 [**GNU Project**](https://www.gnu.org/help/help.html)  
   *Participe do desenvolvimento de softwares livres que respeitam a liberdade dos usuários.*  
   **Como contribuir:** Explore os projetos ativos no site oficial, participe de discussões e contribua com código ou documentação.
+
+- 🐧 [**Kernel Linux**](https://kernelnewbies.org/FirstKernelPatch)
+  *O projeto Kernel Newbies é uma excelente plataforma para quem quer contribuir para o kernel do Linux, especialmente se você é iniciante ou está começando a aprender como funciona o desenvolvimento do kernel.*  
 
 - 📂 [**FreeBSD Project**](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributing/)  
   *Sistema operacional avançado de código aberto.*  
