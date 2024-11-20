@@ -149,7 +149,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Curso da Universidade de Harvard que explora os conceitos fundamentais da arquitetura de computadores.*  
   **Como estudar:** Acompanhe as aulas e implemente os conceitos em projetos práticos.  
 
-- 🎓 [**Udacity - Computer Architecture**](https://www.udacity.com/course/computer-architecture--ud104)  
+- 🎓 [**Udacity - Computer Architecture**](https://www.udacity.com/school/cloud-computing)  
   *Curso cobrindo princípios básicos da arquitetura de computadores, incluindo processadores, memória e sistemas de I/O.*  
   **Como estudar:** Siga os módulos e implemente os exemplos fornecidos.  
 
