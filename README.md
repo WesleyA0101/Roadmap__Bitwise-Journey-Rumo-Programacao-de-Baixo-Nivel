@@ -505,22 +505,17 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Introdução prática ao pentest, técnica fundamental para hackers puristas.*  
   **Como estudar:** Siga os exemplos práticos e implemente testes de segurança reais.
 
-
 - 💡 [**Hackers Manifesto**](https://www.askapache.com/hacking/hacker-manifesto/)  
   *Manifesto hacker clássico que explica a filosofia de liberdade, curiosidade e subversão tecnológica.*  
   **Como estudar:** Leia e internalize a filosofia hacker de Richard Stallman e de outros hackers puristas.
 
-- 📚 [**The Hacker Ethic**](https://www.amazon.com.br/Hacker-Ethic-Radical-Philosophy-Technology/dp/0071354893)  
+- 📚 [**The Hacker Ethic**](https://www.amazon.com.br/Hacker-Ethic-Spirit-Information-Age/dp/0375505660)  
   *Livro que discute como a ética hacker pode ser aplicada ao mundo moderno e como isso afeta nossa visão sobre a tecnologia.*  
   **Como estudar:** Leia para entender como a ética hacker molda a sociedade e seu desenvolvimento.
 
 - 📖 [**Cypherpunks: Freedom and the Future of the Internet**](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1944869085)  
   *Discuta a filosofia cypherpunk, que é uma extensão da ética hacker focada na privacidade e na liberdade na internet.*  
   **Como estudar:** Leia e entenda como os cypherpunks influenciam a internet moderna e como isso se conecta à sua prática como hacker.
-
-- 🧠 [**Mentalidade Hacker: Criatividade e Inovação**](https://www.oreilly.com/library/view/creative-confidence/978038534936X/) 
-  *Livros sobre criatividade e inovação, essenciais para aprimorar a mentalidade hacker.*  
-  **Como estudar:** Pratique a resolução criativa de problemas, utilizando a abordagem hacker para encontrar soluções inovadoras.
 
 - 🖥️ [**Reverse Engineering**](https://www.amazon.com.br/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)  
   *Livro avançado sobre engenharia reversa e análise de código binário.*  
