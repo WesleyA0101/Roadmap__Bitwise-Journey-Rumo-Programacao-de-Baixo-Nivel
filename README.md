@@ -453,7 +453,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 ---
 
 ## 14. 💻 **Hacker purista** 
-*Organizar links*
+
 
 ### 📜 **A Filosofia do Software Livre e a Ética Hacker**
 
