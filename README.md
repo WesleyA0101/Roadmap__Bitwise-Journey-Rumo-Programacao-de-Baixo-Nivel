@@ -183,7 +183,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 - 🎥 [**Intro to Assembly Language - MIT OpenCourseWare**](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/resources/intro-to-assembly-language-8-13-/)  
   *Aula introdutória de Assembly oferecida pelo MIT.*  
 
-- 📖 [**Modern X86 Assembly Language Programming**](https://www.amazon.com/Modern-X86-Assembly-Language-Programming/dp/1484240622)  
+- 📖 [**Modern X86 Assembly Language Programming**](https://link.springer.com/book/10.1007/978-1-4842-9603-5)  
   *Um livro que aborda a programação em Assembly para a arquitetura x86 moderna, com exemplos práticos e exercícios.*  
   **Como estudar:** Resolva os exercícios fornecidos e implemente os exemplos para consolidar o aprendizado.  
 
@@ -195,11 +195,11 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Um livro gratuito que ensina Assembly para PCs, com foco na arquitetura x86.*  
   **Como estudar:** Siga os capítulos e experimente escrever programas em Assembly com o MASM ou o NASM.  
 
-- 🎥 [**Assembly Language Programming - Computerphile**](https://www.youtube.com/playlist?list=PLzH6n4zXuckoKqylY9rRdOKrNC5OS4b--)  
+- 🎥 [**Assembly Language Programming - Computerphile**](https://www.youtube.com/watch?v=VQgqMQcnAvA)  
   *Uma série de vídeos do canal Computerphile que explica os conceitos básicos e avançados de Assembly.*  
   **Como estudar:** Assista aos vídeos e implemente os exemplos no seu ambiente de desenvolvimento.  
 
-- 🎥 [**Assembly Language Programming Tutorial - FreeCodeCamp**](https://www.freecodecamp.org/news/introduction-to-assembly-language-programming/)  
+- 🎥 [**Assembly Language Programming Tutorial - FreeCodeCamp**](https://www.youtube.com/watch?v=gfmRrPjnEw4)  
   *Um tutorial completo de Assembly oferecido pelo FreeCodeCamp, cobrindo desde a instalação das ferramentas até a escrita de programas em Assembly.*  
   **Como estudar:** Siga o tutorial passo a passo, configurando o ambiente e praticando os exercícios.  
  
