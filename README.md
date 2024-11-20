@@ -501,12 +501,12 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Exploração de vulnerabilidades e desenvolvimento de exploits, uma leitura essencial para hackers de alto nível.*  
   **Como estudar:** Estude como explorar falhas e como implementar e testar exploits em um ambiente controlado.
 
-- 🛠️ [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1118980010)  
+- 🛠️ [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)  
   *Introdução prática ao pentest, técnica fundamental para hackers puristas.*  
   **Como estudar:** Siga os exemplos práticos e implemente testes de segurança reais.
 
 
-- 💡 [**Hackers Manifesto**(https://www.askapache.com/hacking/hacker-manifesto/)  
+- 💡 [**Hackers Manifesto**](https://www.askapache.com/hacking/hacker-manifesto/)  
   *Manifesto hacker clássico que explica a filosofia de liberdade, curiosidade e subversão tecnológica.*  
   **Como estudar:** Leia e internalize a filosofia hacker de Richard Stallman e de outros hackers puristas.
 
