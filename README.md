@@ -103,24 +103,106 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ## 2. ⚙️ **Programação no Baixo Nível (Assembly e Arquitetura)**
 
-### ⚡ **Arquitetura de Computadores**
+### ⚡ **Arquitetura de Computadores**  
+
 - 📖 [**Computer Organization and Design**](https://www.amazon.com.br/Computer-Organization-Design-RISC-V-Architecture/dp/0128200642)  
   *Interação entre hardware e software.*  
-  **Como estudar:** Resolva exercícios usando simuladores como o RARS.
+  **Como estudar:** Resolva exercícios usando simuladores como o RARS.  
 
 - 🧠 [**Structure and Interpretation of Computer Programs**](https://web.mit.edu/6.001/6.037/sicp.pdf)  
   *Fundamentos da ciência da computação.*  
-  **Como estudar:** Resolva exercícios e pratique a decomposição de problemas.
+  **Como estudar:** Resolva exercícios e pratique a decomposição de problemas.  
 
-### ⚡ **Assembly**
+- 📖 [**Computer Systems: A Programmer’s Perspective**](https://csapp.cs.cmu.edu/)  
+  *Visão detalhada de como sistemas de computador executam programas, cobrindo arquitetura e programação em baixo nível.*  
+  **Como estudar:** Complete os laboratórios disponíveis para reforçar o entendimento dos conceitos.  
+
+- 📖 [**Structured Computer Organization**](https://www.pearson.com/store/p/structured-computer-organization/P100000268086)  
+  *Aborda a organização de computadores de maneira estruturada, ideal para iniciantes e intermediários.*  
+  **Como estudar:** Leia os capítulos em sequência e faça os exercícios propostos.  
+
+- 📖 [**Computer Architecture and Organization**](https://www.amazon.com/Computer-Architecture-Organization-Designing-Performance/dp/8120336172)  
+  *Cobre os princípios da arquitetura e organização de computadores, com exemplos práticos.*  
+  **Como estudar:** Resolva os exercícios e implemente os exemplos descritos.  
+
+- 🎥 [**Computer Architecture - Princeton University**](https://www.coursera.org/learn/comparch)  
+  *Série de videoaulas cobrindo conceitos fundamentais da arquitetura de computadores.*  
+  **Como estudar:** Assista às videoaulas e aplique os conceitos em exercícios complementares.  
+
+- 🎥 [**Computer Architecture - MIT OpenCourseWare**](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)  
+  *Curso do MIT que oferece uma visão detalhada sobre design e organização de computadores.*  
+  **Como estudar:** Explore as aulas e os materiais adicionais para aprofundar o conhecimento.  
+
+- 🎥 [**Computer Architecture - Georgia Tech**](https://www.udacity.com/course/computer-architecture--ud104)  
+  *Série de videoaulas que abordam os fundamentos da arquitetura de computadores.*  
+  **Como estudar:** Siga as videoaulas e implemente os exemplos apresentados.  
+
+- 🎥 [**Computer Architecture - UC Berkeley**](https://inst.eecs.berkeley.edu/~cs152/)  
+  *Videoaulas sobre design e organização de computadores oferecidas pela UC Berkeley.*  
+  **Como estudar:** Assista às aulas e explore os materiais suplementares.  
+
+- 🎓 [**Coursera - Computer Architecture**](https://www.coursera.org/learn/comparch)  
+  *Curso que cobre os princípios básicos da arquitetura de computadores, incluindo design de processadores e sistemas de memória.*  
+  **Como estudar:** Complete os exercícios e os projetos práticos ao longo do curso.  
+
+- 🎓 [**edX - Computer Architecture**](https://www.edx.org/course/computer-architecture)  
+  *Curso da Universidade de Harvard que explora os conceitos fundamentais da arquitetura de computadores.*  
+  **Como estudar:** Acompanhe as aulas e implemente os conceitos em projetos práticos.  
+
+- 🎓 [**Udacity - Computer Architecture**](https://www.udacity.com/course/computer-architecture--ud104)  
+  *Curso cobrindo princípios básicos da arquitetura de computadores, incluindo processadores, memória e sistemas de I/O.*  
+  **Como estudar:** Siga os módulos e implemente os exemplos fornecidos.  
+
+- 🎓 [**Khan Academy - Computer Science**](https://www.khanacademy.org/computing/computer-science)  
+  *Série de cursos cobrindo tópicos em ciência da computação, incluindo arquitetura de computadores.*  
+  **Como estudar:** Explore os módulos específicos sobre arquitetura e conclua os exercícios interativos.  
+
+
+### ⚡ **Assembly**  
+
 - 📖 [**Programming from the Ground Up**](https://savannah.nongnu.org/projects/pgubook/)  
-  *Introdução ao Assembly x86 com foco em Linux.*  
-  **Como estudar:** Compile exemplos e analise o código gerado.
+  *Introdução ao Assembly x86 com foco no ambiente Linux.*  
+  **Como estudar:** Compile exemplos fornecidos no livro e analise o código Assembly gerado.  
 
 - 🛠️ [**Introduction to x86 Assembly Language Programming**](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)  
-  *Guia gratuito para aprender Assembly x86.*  
-  **Como estudar:** Desenvolva pequenos programas para entender conceitos.
+  *Guia prático e gratuito para aprender Assembly x86.*  
+  **Como estudar:** Desenvolva pequenos programas para explorar conceitos fundamentais.  
 
+- 📚 [**Assembly Programming Tutorial - Online Tutorials Library**](https://www.tutorialspoint.com/assembly_programming/index.htm)  
+  *Recurso online para aprender Assembly passo a passo.*  
+
+- 📑 [**Assembly Language: Part 1 - Princeton University**](https://www.cs.princeton.edu/courses/archive/fall18/cos217/lectures/14_Assembly1.pdf)  
+  *Material acadêmico detalhado sobre linguagem Assembly.*  
+
+- 🧑‍💻 [**Programming in Assembly Language Tutorial - GitHub**](https://github.com/mschwartz/assembly-tutorial)  
+  *Repositório com exemplos práticos para aprendizado de Assembly.*  
+
+- 🎥 [**Introduction to Assembly Language Tutorial**](https://www.youtube.com/watch?v=0nZauIwn-xo)  
+  *Vídeo introdutório ao Assembly com explicações didáticas.*  
+
+- 🎥 [**Intro to Assembly Language - MIT OpenCourseWare**](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/resources/intro-to-assembly-language-8-13-/)  
+  *Aula introdutória de Assembly oferecida pelo MIT.*  
+
+- 📖 [**Modern X86 Assembly Language Programming**](https://www.amazon.com/Modern-X86-Assembly-Language-Programming/dp/1484240622)  
+  *Um livro que aborda a programação em Assembly para a arquitetura x86 moderna, com exemplos práticos e exercícios.*  
+  **Como estudar:** Resolva os exercícios fornecidos e implemente os exemplos para consolidar o aprendizado.  
+
+- 📖 [**The Art of Assembly Language**](https://www.amazon.com/Art-Assembly-Language-2nd/dp/1593272073)  
+  *Um livro clássico que oferece uma introdução detalhada à linguagem Assembly, cobrindo desde conceitos básicos até tópicos avançados.*  
+  **Como estudar:** Trabalhe nos exemplos do livro e explore as ferramentas recomendadas para praticar.  
+
+- 📖 [**PC Assembly Language**](https://pacman128.github.io/pcasm/)  
+  *Um livro gratuito que ensina Assembly para PCs, com foco na arquitetura x86.*  
+  **Como estudar:** Siga os capítulos e experimente escrever programas em Assembly com o MASM ou o NASM.  
+
+- 🎥 [**Assembly Language Programming - Computerphile**](https://www.youtube.com/playlist?list=PLzH6n4zXuckoKqylY9rRdOKrNC5OS4b--)  
+  *Uma série de vídeos do canal Computerphile que explica os conceitos básicos e avançados de Assembly.*  
+  **Como estudar:** Assista aos vídeos e implemente os exemplos no seu ambiente de desenvolvimento.  
+
+- 🎥 [**Assembly Language Programming Tutorial - FreeCodeCamp**](https://www.freecodecamp.org/news/introduction-to-assembly-language-programming/)  
+  *Um tutorial completo de Assembly oferecido pelo FreeCodeCamp, cobrindo desde a instalação das ferramentas até a escrita de programas em Assembly.*  
+  **Como estudar:** Siga o tutorial passo a passo, configurando o ambiente e praticando os exercícios.  
+ 
 
 ---
 
