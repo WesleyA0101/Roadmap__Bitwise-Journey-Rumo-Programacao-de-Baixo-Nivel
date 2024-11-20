@@ -1,18 +1,55 @@
-# **Bitwise Journey: Rumo à Programação de Baixo Nível**
+# **🚀 Bitwise Journey: Rumo à Programação de Baixo Nível**
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjF6M2M1Z2QwaHIyZ252ZXdsbW9mZGwzdzhldHBlaTJhajlsaG0yeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/46hMzlIbVpWPJAWdUY/giphy.webp" width="300" alt="Linux Skull GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjF6M2M1Z2QwaHIyZ252ZXdsbW9mZGwzdzhldHBlaTJhajlsaG0yeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/46hMzlIbVpWPJAWdUY/giphy.webp" width="320" alt="Linux Skull GIF" />
 </div>
 
-<p align="center">
-  <b>Uma jornada definitiva para dominar a programação de baixo nível, sistemas operacionais e o mundo open source.</b>  
-  <br>Ideal para estudantes e profissionais que desejam explorar os fundamentos da computação em sua essência.
-</p>
+<div align="center">
+  <h2>
+    <b>⚡ Uma jornada definitiva para dominar a programação de baixo nível, sistemas operacionais e o mundo open source.</b>
+  </h2>
+  <p>
+    <i>Descubra os fundamentos da computação em sua essência, ideal para estudantes e profissionais apaixonados pela base do desenvolvimento.</i>
+    <i>Este roadmap foi criado pela admiração por **Linus Torvalds** e **Richard Stallman**, gigantes que moldaram o mundo da computação e do software livre. Ele busca resgatar e transmitir o conhecimento profundo e técnico muitas vezes esquecido pela nova geração de "programadores".</i>
+  </p>
+</div>
 
 ---
 
-## 💀 **Criado por WesleyA0101**
-Esse rodmap receberá atualizações com adições de novos conteúdos.
+## 🎯 **Objetivo**  
+
+**Bitwise Journey** é um roadmap — é uma exploração profunda para:  
+- 🌌 **Manipulação de Bits:** Entenda como os computadores processam informações 
+- 🖥️ **Sistemas Operacionais:** Domine conceitos como drivers, kernels e arquiteturas.  
+- 🛠️ **Open Source:** Torne-se parte da comunidade que molda o futuro da tecnologia.  
+- 🔍 **Programação de Baixo Nível:** Mergulhe no funcionamento interno das máquinas.  
+
+> **🚧 Status do projeto:** Em constante desenvolvimento, com atualizações regulares para novos conteúdos e desafios práticos.  
+
+--- 
+
+> 💡 **Dica:** Se você é novo na programação, comece pelos fundamentos indicados no conteúdo e avance gradualmente.  
+
+---
+
+## 👨‍💻 **Sobre o Autor**  
+
+Este projeto é uma criação de **[WesleyA0101](https://github.com/WesleyA0101)**, um entusiasta e profissional apaixonado por tecnologia, com:  
+- Foco em linguagens como C e C++, e nas distribuições Arch Linux e Debian.  
+- Um compromisso com o compartilhamento de conhecimento e a filosofia open source.  
+
+> 🧠 "A base sólida de hoje é o alicerce para inovações revolucionárias amanhã."  
+
+---
+
+<div align="center">
+  <h2><b>🌟 Junte-se à Jornada!</b></h2>
+  <p>Contribua, aprenda e compartilhe sua experiência enquanto exploramos juntos os limites da computação.</p>
+  <a href="https://github.com/WesleyA0101" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-WesleyA0101-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
 
 ---
 
