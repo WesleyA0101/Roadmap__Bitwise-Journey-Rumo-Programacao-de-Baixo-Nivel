@@ -375,6 +375,8 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 - [**edX**](https://www.edx.org)  
   *Plataforma educacional com cursos de universidades renomadas.*
 
+---
+
 ## 10. ☠️ **Canais de cursos no Telegram**
 - [**C, C++, C#**](t.me/+stag3p8cIbFmZGJh)
 
@@ -389,6 +391,8 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 - [**Fox informática**](https://t.me/+3VMemk0PnFA3NjFh)
   
 - [**Dev Lab Acervo**](t.me/devlabacervo)
+  
+---
 
 ## 11. 🎬 **Filmes e documentários**
 - [**Revolution OS**](https://www.youtube.com/watch?v=Z3f-M43DiD4&t=680s)
@@ -399,8 +403,10 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 - [**Piratas do Vale do silicio**](https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html)
   *Filme*
+  
+---
 
-## 12. Material sobre Linux
+## 🐧 12. Material sobre Linux
 
 Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqui estão alguns recursos úteis que cobrem desde o básico até tópicos mais avançados.
 
@@ -419,6 +425,8 @@ Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqu
 #### 🌐 [**Portal Linux**](https://www.aprendendolinux.com/)
 *Portal de aprendizado de Linux, com tutoriais e guias para todos os níveis.*  
 **Como estudar:** Explore os tutoriais disponíveis e experimente configurar seu próprio sistema Linux conforme o guia.
+
+---
 
 ## 13. **Aprendendo a Programar com Games e Guias**
 
@@ -439,6 +447,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 ### 💡 [**Embedded Artistry**](https://embeddedartistry.com/)  
 *Guias e recursos para desenvolvimento de sistemas embarcados, com foco em boas práticas e técnicas avançadas.*
 
+---
 
 ## 14. 💻 **Hacker purista** 
 
