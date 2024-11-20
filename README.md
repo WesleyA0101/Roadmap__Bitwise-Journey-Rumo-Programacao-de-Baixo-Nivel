@@ -121,7 +121,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Aborda a organização de computadores de maneira estruturada, ideal para iniciantes e intermediários.*  
   **Como estudar:** Leia os capítulos em sequência e faça os exercícios propostos.  
 
-- 📖 [**Computer Architecture and Organization**](https://www.amazon.com/Computer-Architecture-Organization-Designing-Performance/dp/8120336172)  
+- 📖 [**Computer Architecture and Organization**](https://www.amazon.com.br/s?k=computer+architecture+and+organization&adgrpid=1152288981672846&hvadid=72018221954357&hvbmt=be&hvdev=c&hvlocphy=685&hvnetw=o&hvqmt=e&hvtargid=kwd-72018740271746%3Aloc-20&hydadcr=29413_14611247&tag=msndesktopsta-20&ref=pd_sl_4tsdbrhch6_e)  
   *Cobre os princípios da arquitetura e organização de computadores, com exemplos práticos.*  
   **Como estudar:** Resolva os exercícios e implemente os exemplos descritos.  
 
