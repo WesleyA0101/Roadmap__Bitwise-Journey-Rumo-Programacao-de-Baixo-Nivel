@@ -468,7 +468,7 @@ Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqu
 
 ---
 
-## 13. **Aprendendo a Programar com Games e Guias**
+## 13. **Aprendendo a Programar com Games, Guias e tutorias**
 
 Aprenda programação de forma prática e divertida com recursos que combinam aprendizado interativo, desenvolvimento de jogos e guias técnicos avançados.
 
@@ -489,6 +489,15 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 
 ### 🛠️ [**Terminal Root**](https://terminalroot.com.br/)
 *É hora de aprender Programação e Desenvolvimento. Um pouco de muito sobre C++, Programação, Desenvolvimento de Games e Web.*
+
+### 🛠️ [**Tomeko.net - Low Level Programming**](https://tomeko.net/programator.php?lang=en)
+*Oferece uma série de tutoriais sobre como interagir diretamente com o hardware, manipular memória e otimizar o código para baixo nível.*
+
+### 🖥️ [**Create a Simple Operating System from Scratch**](https://getvm.io/tutorials/writing-a-simple-operating-system-from-scratch)
+*Este tutorial detalha o processo de construção de um sistema operacional simples em C, indo desde a configuração do compilador até a criação de um kernel funcional.*
+
+### 💡 [**Learn C**](https://www.learn-c.org/)
+*Oferece uma série de tutoriais para aprender C, com foco em como usar essa linguagem em projetos que interagem diretamente com o hardware e o sistema operacional.*
 
 ---
 
@@ -568,6 +577,9 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 - 🛠️ [**Build Your Own Tools**](https://www.instructables.com/The-Ultimate-Collection-of-DIY-Workshop-Tools/)  
   *Crie suas próprias ferramentas de hacking, como exploits, scanners de vulnerabilidades ou kits de pen-test.*  
   **Como estudar:** Explore códigos de ferramentas open-source, entenda sua arquitetura e crie suas próprias soluções.
+
+- 🖥️ [**HackaDay**](https://hackaday.com/)
+  
 
 - 🤝 [**Participar de Hackathons**](https://mlh.io/)  
   *Hackathons são ótimas oportunidades para testar suas habilidades e aprender com outros hackers puristas.*  
