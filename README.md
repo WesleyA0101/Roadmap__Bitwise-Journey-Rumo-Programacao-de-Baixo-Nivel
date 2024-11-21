@@ -487,6 +487,9 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 ### 💡 [**Embedded Artistry**](https://embeddedartistry.com/)  
 *Guias e recursos para desenvolvimento de sistemas embarcados, com foco em boas práticas e técnicas avançadas.*
 
+### 🛠️ [**Terminal Root**](https://terminalroot.com.br/)
+* É hora de aprender Programação e Desenvolvimento. Um pouco de muito sobre C++, Programação, Desenvolvimento de Games e Web.*
+
 ---
 
 ## 14. 💻 **Hacker purista** 
