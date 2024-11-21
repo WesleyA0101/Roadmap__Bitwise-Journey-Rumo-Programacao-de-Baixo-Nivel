@@ -34,7 +34,7 @@
 
 ## 👨‍💻 **Sobre o Autor**  
 
-Este projeto é uma criação de **[WesleyA0101](https://github.com/WesleyA0101)**, um entusiasta e profissional apaixonado por tecnologia, com:  
+Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissional apaixonado por tecnologia, com:  
 - Foco em linguagens como C e C++, e nas distribuições Arch Linux e Debian.  
 - Um compromisso com o compartilhamento de conhecimento e a filosofia open source.  
 
