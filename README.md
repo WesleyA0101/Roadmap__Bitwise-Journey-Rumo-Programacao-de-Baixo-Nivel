@@ -36,7 +36,7 @@
 
 Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissional apaixonado por tecnologia, com:  
 - Foco em linguagens como C e C++, e nas distribuições Arch Linux e Debian.  
-- Um compromisso com o compartilhamento de conhecimento e a filosofia open source.  
+- Um compromisso com o compartilhamento de conhecimento e a filosofia Software livre.  
 
 > 🧠 "A base sólida de hoje é o alicerce para inovações revolucionárias amanhã."  
 
