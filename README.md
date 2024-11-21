@@ -244,7 +244,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 3. 🌐 **Desenvolvimento e Contribuição para Projetos de Baixo Nível, Open Source e Código Livre**
+## 3. 🌐 **Desenvolvimento e Contribuição para Projetos de Baixo Nível, Open Source e software livre**
 
 ### 🖥️ **Projetos de Baixo Nível**
 
@@ -272,7 +272,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Desenvolvimento de software bare metal para Raspberry Pi.*  
   **Como estudar:** Utilize a documentação oficial e projetos de exemplo para começar.
 
-### 🌍 **Projetos Open Source e Código Livre**
+### 🌍 **Projetos Open Source e software Livre**
 
 - 🐂 [**GNU Project**](https://www.gnu.org/help/help.html)  
   *Participe do desenvolvimento de softwares livres que respeitam a liberdade dos usuários.*  
