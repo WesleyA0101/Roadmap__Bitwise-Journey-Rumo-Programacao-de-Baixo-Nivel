@@ -21,7 +21,7 @@
 **Bitwise Journey** é um roadmap — é uma exploração profunda para:  
 - 🌌 **Manipulação de Bits:** Entenda como os computadores processam informações 
 - 🖥️ **Sistemas Operacionais:** Domine conceitos como drivers, kernels e arquiteturas.  
-- 🛠️ **Open Source:** Torne-se parte da comunidade que molda o futuro da tecnologia.  
+- 🛠️ **Open Source e software livre:** Torne-se parte da comunidade que molda o futuro da tecnologia.  
 - 🔍 **Programação de Baixo Nível:** Mergulhe no funcionamento interno das máquinas.  
 
 > **🚧 Status do projeto:** Em constante desenvolvimento, com atualizações regulares para novos conteúdos e desafios práticos.  
