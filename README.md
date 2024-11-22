@@ -74,11 +74,11 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 
 ## 1. 🛠 **Fundamentos Sólidos de Programação e Sistemas Operacionais**
 
-# 🖥️ Linguagem C/C++
+### 🖥️ Linguagem C/C++
 
 A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na programação de baixo nível. Conhecer C é essencial para quem deseja entender como os sistemas operacionais funcionam e como a computação se relaciona diretamente com o hardware.
 
-## 📚 Livros e Guias
+ -> 📚 Livros e Guias
 
 - 📘 [**The C Programming Language**](https://www.amazon.com.br/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)  
   *O clássico essencial para aprender C.*  
@@ -123,7 +123,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 - 🔍 [**Manual da Sintaxe C**](https://www.feg.unesp.br/Home/PaginasPessoais/profmarcosapereira3168/programacaodecomputadoresi/manual-de-sintaxe-da-linguagem-c.pdf)  
   *Resumo completo da sintaxe da linguagem C.*
 
-## 🚀 Repositórios e Recursos Práticos
+-> 🚀 Repositórios e Recursos Práticos
 
 - 🌟 [**Linguagem C - Primeiros Passos**](https://github.com/professorjosedeassis/Linguagem-C)  
   *Repositório com conteúdos básicos e exemplos introdutórios para começar com a linguagem C.*
@@ -132,9 +132,9 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Coleção de implementações e exemplos de estruturas de dados na linguagem C, ideal para aprofundar conhecimentos em algoritmos e lógica.*
 
 
-# 🖥️ Sistemas Operacionais
+### 🖥️ Sistemas Operacionais
 
-## 📚 Livros
+-> 📚 Livros
 
 - 📖 [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
   *Uma introdução aos conceitos de sistemas operacionais.*  
@@ -152,7 +152,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *De Marshall Kirk McKusick e George V. Neville-Neil: Um recurso detalhado sobre o design e a implementação do FreeBSD.*  
   **Como estudar:** Explore o código-fonte do FreeBSD à medida que estuda o livro para entender como os conceitos são aplicados na prática.
 
-## 🎓 Cursos e Tutoriais
+-> 🎓 Cursos e Tutoriais
 
 - 🎥 [**MIT OpenCourseWare - Operating System Engineering**](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)  
   *Curso que explora a construção de sistemas operacionais.*  
@@ -182,7 +182,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Plataforma que ajuda iniciantes a contribuir para o kernel Linux.*  
   **Como estudar:** Comece com pequenas contribuições, corrigindo bugs e implementando novos recursos no kernel.
 
-## 🛠️ Ferramentas e Práticas
+-> 🛠️ Ferramentas e Práticas
 
 - 💻 [**VirtualBox**](https://www.virtualbox.org/)  
   *Plataforma de virtualização para testar diferentes sistemas operacionais.*  
@@ -204,9 +204,9 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ## 2. ⚙️ **Programação no Baixo Nível (Assembly e Arquitetura)**
 
-# ⚡ Arquitetura de Computadores
+### ⚡ Arquitetura de Computadores
 
-## 📚 Livros
+-> 📚 Livros
 
 - 📖 [**Computer Organization and Design**](https://www.amazon.com.br/Computer-Organization-Design-RISC-V-Architecture/dp/0128200642)  
   *Interação entre hardware e software.*  
@@ -228,7 +228,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Cobre os princípios da arquitetura e organização de computadores, com exemplos práticos.*  
   **Como estudar:** Resolva os exercícios e implemente os exemplos descritos.
 
-## 🎓 Cursos e Tutoriais
+-> 🎓 Cursos e Tutoriais
 
 - 🎥 [**Computer Architecture - Princeton University**](https://www.coursera.org/learn/comparch)  
   *Série de videoaulas cobrindo conceitos fundamentais da arquitetura de computadores.*  
@@ -265,7 +265,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ### ⚡ **Assembly**  
 
-## 📚 Livros e Guias  
+-> 📚 Livros e Guias  
 
 - 📖 [**Programming from the Ground Up**](https://savannah.nongnu.org/projects/pgubook/)  
   *Introdução ao Assembly x86 com foco no ambiente Linux.*  
@@ -296,7 +296,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Um livro gratuito que ensina Assembly para PCs, com foco na arquitetura x86.*  
   **Como estudar:** Siga os capítulos e experimente escrever programas em Assembly com o MASM ou o NASM.  
 
-## 🎥 Cursos e Tutoriais  
+-> 🎥 Cursos e Tutoriais  
 
 - 🎥 [**Introduction to Assembly Language Tutorial**](https://www.youtube.com/watch?v=0nZauIwn-xo)  
   *Vídeo introdutório ao Assembly com explicações didáticas.*  
@@ -317,9 +317,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ## 3. 🌐 **Desenvolvimento e Contribuição para Projetos de Baixo Nível, Open Source e software livre**
 
-# 🖥️ Projetos de Baixo Nível e Open Source  
-
-## 🖥️ **Projetos de Baixo Nível**  
+### 🖥️ **Projetos de Baixo Nível**  
 
 - 💻 [**MINIX 3**](https://wiki.minix3.org/doku.php)  
   *Sistema operacional UNIX-like para aprendizado.*  
@@ -343,11 +341,10 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 - 🖥️ [**Raspberry Pi Bare Metal**](https://github.com/bztsrc/raspi3-tutorial)  
   *Desenvolvimento de software bare metal para Raspberry Pi.*  
-  **Como estudar:** Utilize a documentação oficial e projetos de exemplo para começar.  
+  **Como estudar:** Utilize a documentação oficial e projetos de exemplo para começar.
+  
 
----
-
-## 🌍 **Projetos Open Source e Software Livre**  
+### 🌍 **Projetos Open Source e Software Livre**  
 
 - 🐂 [**GNU Project**](https://www.gnu.org/help/help.html)  
   *Participe do desenvolvimento de softwares livres que respeitam a liberdade dos usuários.*  
@@ -394,7 +391,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 📊 **Computação Avançada e Algoritmos**  
+## 4. 📊 **Computação Avançada e Algoritmos**  
 
 - 📖 [**Introduction to Algorithms**](https://www.amazon.com.br/Introduction-Algorithms-3rd-MIT/dp/0262033844)  
   *Estruturas de dados e algoritmos em profundidade.*  
@@ -418,7 +415,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 🎨 **Interfaces de Usuário e Desenvolvimento Gráfico**
+## 5. 🎨 **Interfaces de Usuário e Desenvolvimento Gráfico**
 
 - 📖 [**NCURSES Programming HOWTO**](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)  
   *Criação de interfaces em modo texto.*  
@@ -480,92 +477,172 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 ---
 
 ## 6. 🌐 **Explorar Outras Linguagens para Expansão de Habilidades**
+
+Expandir suas habilidades em diferentes linguagens de programação não só aumenta sua versatilidade como programador, mas também oferece novas perspectivas e soluções criativas para problemas. Embora C e C++ sejam linguagens poderosas e essenciais para quem trabalha com sistemas, redes e segurança, explorar outras linguagens pode aprimorar sua compreensão de diferentes paradigmas e técnicas de programação.
+
 - 📖 [**Programming: Principles and Practice Using C++**](https://www.amazon.com.br/Programming-Principles-Practice-Using-2nd/dp/0321992784)  
-  *Introdução ao C++ pelo criador da linguagem.*  
-  **Como estudar:** Leia e implemente exemplos, criando seus próprios projetos.
+  *Escrito por Bjarne Stroustrup, o criador do C++, este livro serve como uma introdução profunda à linguagem C++ e seus princípios fundamentais.*  
+  **Como estudar:** Leia o livro e implemente os exemplos práticos para aprender a sintaxe e as boas práticas do C++. Além disso, crie seus próprios projetos para solidificar seu conhecimento. O livro aborda desde os conceitos básicos de programação até tópicos avançados, ajudando a construir uma base sólida para o desenvolvimento de software eficiente e moderno.
+
+### Principais Tópicos Abordados no Livro:
+
+- **Fundamentos do C++:** O livro começa com os conceitos básicos da linguagem, como sintaxe, tipos de dados, operadores, controle de fluxo (if, switch, loops), funções e manipulação de arquivos. Isso serve como uma excelente introdução para iniciantes e também oferece detalhes para programadores mais experientes que desejam refinar suas habilidades em C++.
+
+- **Programação Orientada a Objetos (OOP):** A OOP é abordada de forma detalhada, explorando conceitos como classes, objetos, herança, polimorfismo e encapsulamento. Esses conceitos são essenciais para criar código modular, reutilizável e bem estruturado.
+
+- **Gerenciamento de Memória:** O livro enfatiza como o C++ lida com alocação e desalocação de memória, um aspecto crucial em linguagens de baixo nível. A prática de gerenciamento manual de memória oferece um controle preciso sobre o desempenho, mas também exige uma compreensão cuidadosa para evitar vazamentos de memória e outros erros relacionados.
+
+- **Desenvolvimento de Software Robusto:** Stroustrup discute boas práticas de desenvolvimento de software, incluindo como escrever código limpo e legível, e como garantir que seu software seja robusto e fácil de manter. Ele introduz técnicas como tratamento de exceções e testes unitários.
+
+- **Trabalhando com Bibliotecas e Frameworks:** O livro também explora o uso de bibliotecas padrão do C++, como a STL (Standard Template Library), que oferece estruturas de dados e algoritmos eficientes, ajudando a aumentar a produtividade do desenvolvedor.
+
+### Expandindo para Outras Linguagens:
+
+Ao aprender C++, você será mais preparado para explorar outras linguagens de programação. Cada linguagem tem suas características, pontos fortes e fracos, e entender várias delas é uma vantagem significativa. Aqui estão algumas linguagens recomendadas para expandir suas habilidades:
+
+- **Python:**  
+  Uma linguagem altamente acessível e versátil, Python é ideal para desenvolvimento rápido, automação, análise de dados e até mesmo desenvolvimento web. A sintaxe simples de Python a torna uma excelente linguagem para aprender conceitos de programação de forma rápida. É amplamente utilizada em ciência de dados, inteligência artificial e automação.  
+  - 📖 [**Python for Everybody**](https://www.py4e.com/) - Curso gratuito online de Python.
+  - 📖 [**Automate the Boring Stuff with Python**](https://automatetheboringstuff.com/) - Livro e curso sobre automação com Python.
+
+- **Rust:**   
+  - 📖 [**The Rust Programming Language**](https://doc.rust-lang.org/book/) - O livro oficial de Rust, gratuito e altamente recomendado.
+  - 📖 [**Rust By Example**](https://doc.rust-lang.org/stable/rust-by-example/) - Um guia para aprender Rust com exemplos práticos.
+
+- **Go (Golang):**  
+  Criada pelo Google, Go é uma linguagem de programação moderna que foca em simplicidade e desempenho. É ideal para a criação de servidores web, sistemas distribuídos e microserviços. Go tem uma sintaxe simples e possui um excelente gerenciamento de concorrência, tornando-a uma escolha popular para desenvolvimento de back-end.  
+  - 📖 [**Go by Example**](https://gobyexample.com/) - Uma excelente maneira de aprender Go com exemplos práticos.
+  - 📖 [**The Go Programming Language**](http://www.gopl.io/) - Um dos livros mais completos sobre Go.
+
+
+- **Java:**  
+  Java é uma linguagem amplamente utilizada para desenvolvimento de sistemas empresariais, aplicações web e aplicativos móveis Android. Ela se destaca por sua portabilidade e robustez.  
+  - 📖 [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/) - Documentação oficial e tutoriais gratuitos da Oracle para aprender Java.
+  - 📖 [**Effective Java**](https://www.oreilly.com/library/view/effective-java-3rd/9780134685991/) - Livro essencial para programadores Java avançados.
+
+### Aprendizado e Aplicação Prática:
+
+Para realmente dominar essas linguagens e aprender de maneira eficaz, é importante não só ler livros, mas também colocar a teoria em prática. Algumas formas de praticar incluem:
+
+- **Projetos Pessoais:** A melhor maneira de aprender uma nova linguagem é criando projetos práticos. Escolha projetos que desafiem seu entendimento e permitam que você explore novos conceitos. Isso pode incluir desde pequenos scripts até aplicações mais complexas.
+  
+- **Contribuições Open Source:** Contribuir para projetos de código aberto pode acelerar o aprendizado e colocá-lo em contato com outros programadores. Além disso, é uma excelente maneira de praticar o uso de ferramentas de colaboração, como Git.
+
+- **Desafios de Programação:** Plataformas como HackerRank, LeetCode, Exercism, e Codeforces oferecem desafios de programação que podem ajudá-lo a melhorar suas habilidades e aprender novas linguagens de maneira prática.  
+  - 📖 [**Exercism**](https://exercism.io/) - Uma plataforma de aprendizado baseada em desafios de código, com mentorias.
+  - 📖 [**LeetCode**](https://leetcode.com/) - Focada em desafios de programação e preparação para entrevistas técnicas.
 
 ---
 
-## 7. 📜 **Filosofia e Cultura do Software Livre**
+# 7. 📜 **Filosofia e Cultura do Software Livre**
+
+O movimento de **Software Livre** não é apenas uma questão técnica, mas envolve uma profunda filosofia sobre a liberdade, a privacidade e o controle do usuário sobre as ferramentas tecnológicas que utiliza. Ele está fundamentado na ideia de que o software deve ser livre de restrições, permitindo que os usuários possam usar, estudar, modificar e compartilhar os programas como quiserem.
+
 - 📖 [**Free Software, Free Society**](https://www.gnu.org/doc/fsfs-ii-2.pdf)  
-  *Ensaios de Stallman sobre software livre.*  
-  **Como estudar:** Leia para entender os princípios do movimento open source.
+  *Este livro, escrito por Richard Stallman, é uma coleção de ensaios que descrevem os princípios e as razões por trás do movimento do software livre.*  
+  **Como estudar:** Leia para entender os princípios fundamentais do movimento open source, como a liberdade de uso, modificação e redistribuição de software, além da importância de uma sociedade mais justa e equitativa onde as tecnologias são acessíveis e controláveis por todos.
+
+## Principais Tópicos Abordados no Livro:
+
+- **Liberdade de Software:** Stallman discute a importância das quatro liberdades fundamentais do software livre:  
+  1. **Liberdade 0:** A liberdade de executar o programa como desejar, para qualquer propósito.  
+  2. **Liberdade 1:** A liberdade de estudar como o programa funciona, e mudá-lo para que ele atenda às suas necessidades.  
+  3. **Liberdade 2:** A liberdade de redistribuir cópias para ajudar outros.  
+  4. **Liberdade 3:** A liberdade de distribuir suas versões modificadas do programa, de forma que toda a comunidade possa se beneficiar.
+
+- **A Ética do Software Livre:** Stallman argumenta que o software deve ser uma ferramenta de capacitação e não de controle. As empresas que distribuem software proprietário (ou seja, software fechado, onde o código-fonte é inacessível) controlam os usuários, limitando sua liberdade e privacidade. No modelo de software livre, o usuário é empoderado, podendo entender e modificar a tecnologia que utiliza, além de compartilhar suas modificações com os outros.
+
+- **Software Livre x Software Proprietário:** O autor detalha as diferenças entre software livre e software proprietário, e como o movimento de software livre não se baseia apenas no "preço gratuito", mas nas liberdades essenciais para que o usuário possa ter o controle total sobre suas ferramentas digitais.
+
+- **O Impacto Social e Cultural:** O movimento do software livre visa não apenas mudar a maneira como usamos a tecnologia, mas também transformar a sociedade. Ao permitir que todos participem da criação e evolução do software, promove-se uma cultura de colaboração, compartilhamento de conhecimento e liberdade de expressão. A cultura do software livre é vista como um movimento contra a monopolização da informação e a vigilância digital.
 
 ---
 
 ## 8. 📺 **Canais de YouTube sobre Programação e Tecnologia**
-- [**Computerphile**](https://www.youtube.com/user/Computerphile)  
-  *Explica conceitos de ciência da computação e programação de maneira acessível.*
 
-- [**Ben Eater**](https://www.youtube.com/c/BenEater)  
-  *Ensina arquitetura de computadores e como construir computadores do zero.*
+### 🌟 **[Computerphile](https://www.youtube.com/user/Computerphile)**
+*Explica conceitos de ciência da computação e programação de maneira acessível.*
 
-- [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain)  
-  *Ensina programação e criação de projetos interativos com Processing e P5.js.*
+### 🌟 **[Ben Eater](https://www.youtube.com/c/BenEater)**
+*Ensina arquitetura de computadores e como construir computadores do zero.*
 
-- [**Academind**](https://www.youtube.com/c/Academind)  
-  *Tutoriais sobre desenvolvimento web, backend e frameworks populares como React e Node.js.*
+### 🌟 **[The Coding Train](https://www.youtube.com/c/TheCodingTrain)**
+*Ensina programação e criação de projetos interativos com Processing e P5.js.*
 
-- [**Linux Academy**](https://www.youtube.com/c/LinuxAcademy)  
-  *Canal focados em Linux, DevOps, segurança e infraestrutura.*
-  
-- [**Diolinux**](https://www.youtube.com/@Diolinux)
-  *Canal de tecnologia*
-  
-- [**Attekita Dev**](https://www.youtube.com/@attekitadev)
-  *Canal de dicas de programação e o mercado de trabalho*
-  
-- [**Lucas Montano**](https://www.youtube.com/@LucasMontano)   
-  *Canal sobre programação e tecnologia*
+### 🌟 **[Academind](https://www.youtube.com/c/Academind)**
+*Tutoriais sobre desenvolvimento web, backend e frameworks populares como React e Node.js.*
 
-- [**Programe seu futuro**](https://www.youtube.com/@programeseufuturo)
-  *Canal de programação em C*
+### 🌟 **[Linux Academy](https://www.youtube.com/c/LinuxAcademy)**
+*Canal focado em Linux, DevOps, segurança e infraestrutura.*
 
-- [**Bit por Bit**](https://www.youtube.com/@bitporbit)
-  *Canal de ciência da computação*
+### 🌟 **[Diolinux](https://www.youtube.com/@Diolinux)**
+*Canal de tecnologia, trazendo dicas e novidades do mundo Linux.*
 
-- [**Slackjaff**](https://www.youtube.com/@SlackJeff)
-  *Canal de tecnologia, focado em software livre, GNU/Linux e segurança*
+### 🌟 **[Attekita Dev](https://www.youtube.com/@attekitadev)**
+*Dicas sobre programação e o mercado de trabalho na área de tecnologia.*
+
+### 🌟 **[Lucas Montano](https://www.youtube.com/@LucasMontano)**
+*Canal sobre programação e tecnologia.*
+
+### 🌟 **[Programe seu futuro](https://www.youtube.com/@programeseufuturo)**
+*Canal de programação em C.*
+
+### 🌟 **[Bit por Bit](https://www.youtube.com/@bitporbit)**
+*Canal de ciência da computação.*
+
+### 🌟 **[Slackjaff](https://www.youtube.com/@SlackJeff)**
+*Canal de tecnologia, focado em software livre, GNU/Linux e segurança.*
+
 ---
 
 ## 9. 🎓 **Canais de Cursos sobre Programação e Tecnologia**
-- [**Udemy**](https://www.udemy.com)  
-  *Plataforma de cursos online com foco em tecnologia e programação.*
 
-- [**Coursera**](https://www.coursera.org)  
-  *Oferece cursos sobre ciência da computação, inteligência artificial e mais.* 
+### 🌐 **[Udemy](https://www.udemy.com)**
+*Plataforma de cursos online com foco em tecnologia e programação, com uma vasta gama de tópicos.*
 
-- [**edX**](https://www.edx.org)  
-  *Plataforma educacional com cursos de universidades renomadas.*
+### 🌐 **[Coursera](https://www.coursera.org)**
+*Oferece cursos sobre ciência da computação, inteligência artificial e mais, com certificação de universidades renomadas.*
+
+### 🌐 **[edX](https://www.edx.org)**
+*Plataforma educacional com cursos de universidades renomadas, ideal para quem busca educação de qualidade e aprofundada.*
 
 ---
 
-## 10. ☠️ **Canais de cursos no Telegram**
-- [**C, C++, C#**](t.me/+stag3p8cIbFmZGJh)
+## 10. ☠️ **Canais de Cursos no Telegram**
 
-- [**Pack C e C++**](https://t.me/+1v2gDJBzYmg4ODM5)
+### 📚 **[C, C++, C#](t.me/+stag3p8cIbFmZGJh)**
+*Canal dedicado a cursos e materiais sobre C, C++ e C#.*
 
-- [**Fox programação**]( https://t.me/+8X-PoWixcCczOTgx)
+### 📚 **[Pack C e C++](https://t.me/+1v2gDJBzYmg4ODM5)**
+*Pacote completo de recursos e tutoriais para aprender C e C++.*
 
-- [**Linux Admin - LinuxTips**](https://t.me/+R8EruouDOaQzNjdh)
+### 📚 **[Fox Programação](https://t.me/+8X-PoWixcCczOTgx)**
+*Canal de programação com conteúdos focados em várias linguagens, incluindo C e Python.*
 
-- [**Linux LPI**](https://t.me/+TZh3_14ByUI5Y2Nh)
+### 📚 **[Linux Admin - LinuxTips](https://t.me/+R8EruouDOaQzNjdh)**
+*Dicas e tutoriais sobre administração de sistemas Linux.*
 
-- [**Fox informática**](https://t.me/+3VMemk0PnFA3NjFh)
-  
-- [**Dev Lab Acervo**](t.me/devlabacervo)
+### 📚 **[Linux LPI](https://t.me/+TZh3_14ByUI5Y2Nh)**
+*Curso focado na certificação LPI para administradores de sistemas Linux.*
+
+### 📚 **[Fox Informática](https://t.me/+3VMemk0PnFA3NjFh)**
+*Canal com conteúdos sobre informática e redes.*
+
+### 📚 **[Dev Lab Acervo](t.me/devlabacervo)**
+*Acervo de materiais sobre desenvolvimento e tecnologias relacionadas.*
   
 ---
 
-## 11. 🎬 **Filmes e documentários**
-- [**Revolution OS**](https://www.youtube.com/watch?v=Z3f-M43DiD4&t=680s)
-  *Documentário*
-  
-- [**The Code Linux**](https://www.youtube.com/watch?v=XvH8HpGfZrc)
-  *Documentário*
+## 11. 🎬 **Filmes e Documentários**
 
-- [**Piratas do Vale do silicio**](https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html)
-  *Filme*
+### 🎥 **[Revolution OS](https://www.youtube.com/watch?v=Z3f-M43DiD4&t=680s)**
+*Documentário sobre a história do software livre e o movimento que levou ao surgimento do Linux.*
+
+### 🎥 **[The Code Linux](https://www.youtube.com/watch?v=XvH8HpGfZrc)**
+*Documentário sobre o impacto do Linux no mundo da tecnologia e sua evolução.*
+
+### 🎥 **[Piratas do Vale do Silício](https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html)**
+*Filme que narra a história de Steve Jobs e Bill Gates, e a criação das gigantes da tecnologia.*
   
 ---
 
@@ -725,7 +802,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   **Como estudar:** Assista às palestras e workshops, participe de competições de segurança e converse com especialistas.
 
   
-## 👩‍💻 15. Comunidades Tech
+## 15. 👩‍💻 Comunidades Tech
 
 - 💬 [**Stack Overflow**](https://stackoverflow.com/)  
   *Uma das maiores comunidades de desenvolvedores, onde você pode fazer perguntas e responder dúvidas sobre programação.*  
