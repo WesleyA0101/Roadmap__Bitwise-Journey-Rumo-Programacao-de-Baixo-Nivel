@@ -68,6 +68,7 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 - [12. Sobre Linux](#12-material-sobre-linux)
 - [13. Aprendendo programação com games e guias](#13-aprendendo-a-programar-com-games-guias)
 - [14. Hacker purista](#14-hacker-purista)
+- [15. Comunidades tech](#15comunidades-tech)
   
 ---
 
@@ -161,7 +162,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Uma série de tutoriais que cobrem diversos tópicos de sistemas operacionais, desde conceitos básicos até avançados.*  
   **Como estudar:** Siga os tutoriais do GeeksforGeeks, praticando com exemplos e testes práticos. Explore temas como escalonamento de processos, gerenciamento de memória, e sistemas de arquivos.
 
-- 🎓 [**Operating Systems: From 0 to 1 (Udemy)**](https://www.udemy.com/course/operating-systems-from-0-to-1/)  
+- 🎓 [**Operating Systems: From 0 to 1 (Udemy)**](https://www.udemy.com/course/operating-systems-from-scratch-part1/?couponCode=LETSLEARNNOW)  
   *Curso para iniciantes e intermediários que cobre a construção de um sistema operacional simples.*  
   **Como estudar:** Siga as aulas e implemente pequenos projetos para aplicar o que foi aprendido.
 
@@ -169,11 +170,11 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Exploração dos conceitos de concorrência e semáforos, fundamentais para sistemas operacionais.*  
   **Como estudar:** Resolva os exercícios práticos e aplique os conceitos de semáforos e sincronização em sistemas multi-thread.
 
-- 🎥 [**FreeBSD - Introduction and Configuration**](https://www.youtube.com/watch?v=6W7prk9TfJw)  
+- 🎥 [**FreeBSD - Introduction and Configuration**](https://www.youtube.com/watch?v=frBzlP6t9Gw)  
   *Vídeo tutorial sobre o sistema operacional FreeBSD, cobrindo instalação e configuração.*  
   **Como estudar:** Acompanhe o vídeo, faça a instalação do FreeBSD em uma máquina virtual e pratique as configurações mostradas no vídeo.
 
-- 🎓 [**Operating System Engineering - Stanford University**](https://www.youtube.com/watch?v=RHzZtjF7_k0)  
+- 🎓 [**Operating System Engineering - Stanford University**](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)  
   *Curso completo sobre sistemas operacionais com ênfase na construção de sistemas de baixo nível.*  
   **Como estudar:** Implemente as lições de sistemas de arquivos e escalonamento de processos enquanto assiste ao curso.
 
@@ -431,7 +432,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Framework poderoso para criação de interfaces gráficas multiplataforma.*  
   **Como estudar:** Siga os tutoriais introdutórios e implemente pequenas aplicações para aprender a manipular eventos e layouts.  
 
-- 🛠️ [**FLTK Documentation**](https://www.fltk.org/documents.php)  
+- 🛠️ [**FLTK Documentation**](https://www.fltk.org/)  
   *Toolkit leve para GUIs, ideal para projetos com restrições de recursos.*  
   **Como estudar:** Leia os exemplos e implemente aplicações simples para explorar suas funcionalidades.  
 
@@ -439,11 +440,11 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Biblioteca para desenvolvimento de interfaces gráficas e jogos.*  
   **Como estudar:** Experimente criar interfaces interativas, integrando gráficos e controles de entrada.  
 
-- 🎥 [**Learn GTK with C Tutorial - YouTube**](https://www.youtube.com/watch?v=9a2D9oUKBSk)  
+- 🎥 [**Learn GTK with C Tutorial - YouTube**](https://www.youtube.com/watch?v=M5iElItWZwM)  
   *Série de vídeos ensinando a criar GUIs com GTK usando C.*  
   **Como estudar:** Siga os vídeos e desenvolva projetos paralelos para reforçar os conceitos.  
 
-- 🎥 [**Qt 5 GUI Programming Tutorial - YouTube**](https://www.youtube.com/watch?v=raMa5-xJa3g)  
+- 🎥 [**Qt 5 GUI Programming Tutorial - YouTube**](https://www.youtube.com/playlist?list=PLTgRMOcmRb3MZQidUXb-hTM21ibXa7aQr)  
   *Tutorial em vídeo sobre programação de GUIs com Qt 5.*  
   **Como estudar:** Implemente os exemplos do vídeo e experimente criar suas próprias interfaces.  
 
@@ -463,7 +464,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
   *Tutoriais detalhados para renderização gráfica em 3D com OpenGL.*  
   **Como estudar:** Siga os tutoriais desde a configuração inicial até a criação de interfaces gráficas interativas.  
 
-- 🎥 [**GTK, Glade & C Programming - YouTube**](https://www.youtube.com/watch?v=6ScCdCNOjYs)  
+- 🎥 [**GTK, Glade & C Programming - YouTube**](https://www.youtube.com/watch?v=g-KDOH_uqPk)  
   *Vídeo que ensina a integrar GTK e Glade para criar GUIs de forma mais visual.*  
   **Como estudar:** Use o Glade para projetar interfaces e conecte-as ao código em C para entender a interação.  
 
@@ -602,7 +603,7 @@ Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqu
 
 ---
 
-## 13. **Aprendendo a Programar com Games, Guias e tutorias**
+## 13. 🎨 **Aprendendo a Programar com Games, Guias e tutorias**
 
 Aprenda programação de forma prática e divertida com recursos que combinam aprendizado interativo, desenvolvimento de jogos e guias técnicos avançados.
 
@@ -722,6 +723,69 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 - 🌍 [**Conferências de Segurança**](https://www.defcon.org/)  
   *Defcon e outras conferências de segurança são lugares ideais para aprender com hackers de alto nível e debater sobre as últimas tendências.*  
   **Como estudar:** Assista às palestras e workshops, participe de competições de segurança e converse com especialistas.
+
+  
+## 👩‍💻 15. Comunidades Tech
+
+- 💬 [**Stack Overflow**](https://stackoverflow.com/)  
+  *Uma das maiores comunidades de desenvolvedores, onde você pode fazer perguntas e responder dúvidas sobre programação.*  
+  **Como participar:** Crie uma conta, faça perguntas ou ajude outros respondendo dúvidas. Participe das discussões e explore tags de tecnologias que você está aprendendo.
+
+- 🐦 [**Reddit - r/Programming**](https://www.reddit.com/r/programming/)  
+  *Fórum de discussão sobre programação e tecnologia.*  
+  **Como participar:** Junte-se às discussões, compartilhe projetos interessantes e aprenda com as postagens de outros desenvolvedores.
+
+- 🧑‍💻 [**Hacker News**](https://news.ycombinator.com/)  
+  *Fórum onde notícias sobre tecnologia, startups e programação são compartilhadas.*  
+  **Como participar:** Participe discutindo notícias, fazendo perguntas ou respondendo discussões sobre programação e tendências tecnológicas.
+
+- 🎥 [**Dev.to**](https://dev.to/)  
+  *Uma comunidade voltada para desenvolvedores, com posts técnicos, dicas, tutoriais e desafios.*  
+  **Como participar:** Crie posts, compartilhe suas experiências, escreva tutoriais ou participe das discussões sobre novas tecnologias.
+
+- 💻 [**Stack Exchange**](https://stackexchange.com/)  
+  *Rede de sites de perguntas e respostas sobre diversos tópicos técnicos, incluindo programação, redes e sistemas operacionais.*  
+  **Como participar:** Participe de discussões específicas sobre suas áreas de interesse e ajude a responder perguntas.
+
+- 🌐 [**FreeCodeCamp Forum**](https://forum.freecodecamp.org/)  
+  *Comunidade de desenvolvedores e aprendizes de programação, com discussões sobre desenvolvimento web, ferramentas e linguagens de programação.*  
+  **Como participar:** Faça perguntas, compartilhe dicas e participe de discussões sobre programação.
+
+- 🎓 [**DevOps Subreddit**](https://www.reddit.com/r/devops/)  
+  *Fórum especializado em práticas de DevOps, automação e infraestrutura de TI.*  
+  **Como participar:** Participe das discussões sobre práticas, ferramentas e desafios do mundo DevOps, e ajude com suas próprias experiências.
+
+- 🧑‍💻 [**Slack Communities**](https://www.slack.com/)  
+  *Diversas comunidades de desenvolvedores e profissionais de TI estão no Slack, oferecendo um ambiente colaborativo e interativo.*  
+  **Como participar:** Junte-se a grupos relacionados ao seu interesse ou área profissional e participe das conversas em tempo real.
+
+- 🌍 [**Mozilla Developer Network (MDN)**](https://developer.mozilla.org/en-US/)  
+  *Recurso e comunidade online para aprender e contribuir com o desenvolvimento web.*  
+  **Como participar:** Leia tutoriais, contribua com documentação e ajude a resolver problemas em fóruns.
+
+- 🌐 [**Open Source Communities**](https://opensource.com/)  
+  *Portal com recursos, artigos e histórias de comunidades open source.*  
+  **Como participar:** Envolva-se em discussões e participe de projetos open source que te interessem.
+
+- 🎓 [**CodeProject**](https://www.codeproject.com/)  
+  *Plataforma para desenvolvedores compartilhar artigos, tutoriais e exemplos de código.*  
+  **Como participar:** Publique seus artigos ou tutoriais e contribua para a comunidade com soluções de código.
+
+- 🖥️ [**Linux Questions**](https://www.linuxquestions.org/questions/)  
+  *Comunidade dedicada ao sistema operacional Linux, onde você pode tirar dúvidas, trocar ideias e compartilhar conhecimento.*  
+  **Como participar:** Faça perguntas sobre Linux, colabore com respostas e compartilhe sua experiência com o sistema.
+
+- 🌐 [**Hacktoberfest**](https://hacktoberfest.com/)  
+  *Evento anual que incentiva a contribuição open source durante o mês de outubro.*  
+  **Como participar:** Contribua para projetos open source e receba uma camiseta do evento ao completar contribuições.
+
+- 💻 [**Women Who Code**](https://www.womenwhocode.com/)  
+  *Comunidade global que apoia mulheres no setor de tecnologia.*  
+  **Como participar:** Junte-se aos eventos, participe de meetups e compartilhe suas experiências no campo da tecnologia.
+
+- 🌐 [**CodeWars**](https://www.codewars.com/)  
+  *Plataforma que oferece desafios de programação (kata) em várias linguagens.*  
+  **Como participar:** Resolva desafios, compartilhe soluções e aprenda com outras abordagens de código.
 
 
 
