@@ -801,7 +801,8 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Defcon e outras conferências de segurança são lugares ideais para aprender com hackers de alto nível e debater sobre as últimas tendências.*  
   **Como estudar:** Assista às palestras e workshops, participe de competições de segurança e converse com especialistas.
 
-  
+---
+
 ## 15. 👩‍💻 Comunidades Tech
 
 - 💬 [**Stack Overflow**](https://stackoverflow.com/)  
