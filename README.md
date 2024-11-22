@@ -466,6 +466,18 @@ Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqu
 *Portal de aprendizado de Linux, com tutoriais e guias para todos os níveis.*  
 **Como estudar:** Explore os tutoriais disponíveis e experimente configurar seu próprio sistema Linux conforme o guia.
 
+#### 🐧 [**Linux Professional Institute (LPI) Materiais Didáticos**](https://learning.lpi.org/pt/learning-materials/learning-materials/)
+* Materiais gratuitos para preparar para certificações LPI*
+
+#### 🐧 [**Certificação LPI-1: 191-102**](https://www.amazon.com.br/Certifica%C3%A7%C3%A3o-LPI-1-Luciano-Antonio-Siqueira/dp/8550810614)
+*Livro recomendado para quem busca certificação LPI*
+
+#### 📘 [**15 livros do melhor Linux**](https://www.guru99.com/pt/best-linux-books-beginners.html)
+*Uma lista de livros recomendados para iniciantes e usuários avançados de Linux*
+
+#### 📘 [**GuiaFoca**](https://guiafoca.org/)
+*Um guia completo e gratuito para aprender Linux.*
+
 ---
 
 ## 13. **Aprendendo a Programar com Games, Guias e tutorias**
