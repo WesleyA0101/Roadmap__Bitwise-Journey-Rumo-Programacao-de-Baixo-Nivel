@@ -123,6 +123,8 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 - 🔍 [**Manual da Sintaxe C**](https://www.feg.unesp.br/Home/PaginasPessoais/profmarcosapereira3168/programacaodecomputadoresi/manual-de-sintaxe-da-linguagem-c.pdf)  
   *Resumo completo da sintaxe da linguagem C.*
 
+- 🎥 [**Versões de C: K&R, ANSI, C99, C11, C17, C2x**](https://www.youtube.com/watch?v=etJzrUzk5Rc) 
+
 -> 🚀 Repositórios e Recursos Práticos
 
 - 🌟 [**Linguagem C - Primeiros Passos**](https://github.com/professorjosedeassis/Linguagem-C)  
