@@ -630,8 +630,6 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
 ### 📚 **[Fox Informática](https://t.me/+3VMemk0PnFA3NjFh)**
 *Canal com conteúdos sobre informática e redes.*
 
-### 📚 **[Dev Lab Acervo](t.me/devlabacervo)**
-*Acervo de materiais sobre desenvolvimento e tecnologias relacionadas.*
   
 ---
 
