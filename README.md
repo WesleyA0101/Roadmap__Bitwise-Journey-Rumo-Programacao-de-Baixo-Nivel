@@ -24,7 +24,7 @@
 - 🛠️ **Open Source e software livre:** Torne-se parte da comunidade que molda o futuro da tecnologia.  
 - 🔍 **Programação de Baixo Nível:** Mergulhe no funcionamento interno das máquinas.  
 
-> **🚧 Status do projeto:** Em constante desenvolvimento, com atualizações regulares para novos conteúdos e desafios práticos.  
+> **🚧 Status do projeto:** Em constante desenvolvimento, com atualizações regulares para novos conteúdos e desafios práticos.
 
 --- 
 
@@ -71,6 +71,36 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 - [15. Comunidades tech](#15comunidades-tech)
   
 ---
+
+## ✨ **CONTRIBUA PARA O ROADMAP Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel** ✨
+
+Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como objetivo ser uma fonte incrível de materiais e direções de aprendizado na área low-level. Se você possui materiais, ideias ou recursos que podem enriquecer o aprendizado de outras pessoas, aqui está sua chance de contribuir!
+
+### Como Contribuir? 
+1. **Faça um fork do repositório:** Crie uma cópia do projeto no seu GitHub.
+2. **Clone o repositório:** Baixe o projeto para sua máquina local.
+   ```bash
+   git clone https://github.com/seu-usuario/roadmap-low-level.git
+   ```
+3. **Crie uma branch:** Trabalhe em suas alterações em uma branch separada.
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+4. **Adicione seus materiais:** Inclua recursos como artigos, livros, vídeos, tutoriais ou qualquer outro conteúdo valioso.
+5. **Commit e push:** Envie suas alterações para seu fork.
+   ```bash
+   git add .
+   git commit -m "Adicionei novos materiais de estudo."
+   git push origin minha-contribuicao
+   ```
+6. **Abra um Pull Request:** Solicite a inclusão das suas contribuições no repositório principal.
+
+### Por que contribuir?
+- 🔗 **Colabore com a comunidade:** Compartilhe seu conhecimento e ajude outras pessoas a crescerem na área low-level.
+- 🌐 **Construa sua reputação:** Contribuições open-source enriquecem seu portfólio e mostram seu compromisso com o aprendizado e a colaboração.
+- ✨ **Faça parte de algo grande:** Ajude a transformar este repositório no maior e mais completo roadmap de estudos low-level!
+
+> **Juntos, podemos levar o conhecimento mais longe e ajudar cada vez mais pessoas a se destacarem nesse mundo, nenhum conhecimento deve ser restrito a ninguém**
 
 ## 1. 🛠 **Fundamentos Sólidos de Programação e Sistemas Operacionais**
 
