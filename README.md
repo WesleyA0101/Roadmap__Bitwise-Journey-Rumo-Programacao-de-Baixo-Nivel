@@ -271,7 +271,13 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 - 📖 [**Programming from the Ground Up**](https://savannah.nongnu.org/projects/pgubook/)  
   *Introdução ao Assembly x86 com foco no ambiente Linux.*  
-  **Como estudar:** Compile exemplos fornecidos no livro e analise o código Assembly gerado.  
+  **Como estudar:** Compile exemplos fornecidos no livro e analise o código Assembly gerado.
+
+- 📖 [**NASM Assembly Language Tutorials**](https://asmtutor.com/)
+  *Este projeto foi montado para ensinar a linguagem assembly NASM x86 no Linux.*
+
+- 📚 [**x86 Assembly Language Programming**](https://cs.lmu.edu/~ray/notes/x86assembly/)
+  *Este documento contém exemplos muito breves de linguagem assembly programas para o x86. O tópico de programação em linguagem assembly x86*
 
 - 🛠️ [**Introduction to x86 Assembly Language Programming**](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)  
   *Guia prático e gratuito para aprender Assembly x86.*  
