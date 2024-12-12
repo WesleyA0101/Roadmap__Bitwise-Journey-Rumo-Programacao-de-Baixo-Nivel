@@ -605,6 +605,9 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
 
 ## 8. 📺 **Canais de YouTube sobre Programação e Tecnologia**
 
+### ☠️ **[Fabio Akita](https://www.youtube.com/@Akitando)**
+*Um canal de um cara experiente na área, que mostra conceitos importantes e que são negligenciados por muitas fontes de educação.*
+
 ### 🌟 **[Computerphile](https://www.youtube.com/user/Computerphile)**
 *Explica conceitos de ciência da computação e programação de maneira acessível.*
 
