@@ -68,7 +68,18 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 - [12. Sobre Linux](#12-material-sobre-linux)
 - [13. Aprendendo programação com games e guias](#13-aprendendo-a-programar-com-games-guias)
 - [14. Hacker purista](#14-hacker-purista)
-- [15. Comunidades tech](#15comunidades-tech)
+- [15. Comunidades tech](#15-comunidades-tech)
+- [16. Segurança e Pentest em Baixo Nível](#16-segurança-e-pentest-em-baixo-nível)
+- [17. Simulação e Emulação de Hardware](#17-simulação-e-emulação-de-hardware)
+- [18. Design e Desenvolvimento de Compiladores](#18-design-e-desenvolvimento-de-compiladores)
+- [19. Sistemas Distribuídos e Alta Performance](#19-sistemas-distribuídos-e-alta-performance) - Adicionar
+- [20. Programação com FPGAs e Hardware Programável](#20-programação-com-fpgas-e-hardware-programável) - Adicionar
+- [21. Ética e Impacto Social na Computação](#21-ética-e-impacto-social-na-computação) - Adicionar
+- [22. Hackathons e Desafios de Programação](#22-hackathons-e-desafios-de-programação) - Adicionar
+- [23. Estudos e Leituras Clássicas em Computação](#23-estudos-e-leituras-clássicas-em-computação) - Adicionar
+- [24. Automação e Scripting Avançado](#24-automação-e-scripting-avançado) - Adicionar
+- [25. História da Computação](#25-história-da-computação) - Adicionar
+
   
 ---
 
@@ -911,7 +922,58 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
   *Plataforma que oferece desafios de programação (kata) em várias linguagens.*  
   **Como participar:** Resolva desafios, compartilhe soluções e aprenda com outras abordagens de código.
 
+---  
+
+## 🔐 16. Segurança e Pentest em Baixo Nível
+
+📘 [**Um Mapeamento Sistemático sobre Testes de Penetração**](https://www.pucrs.br/facin-prov/wp-content/uploads/sites/19/2016/03/tr084.pdf)  
+*Este documento da PUCRS fornece uma visão geral sobre a área de Pentest, apresentando cenários de aplicação, modelos, metodologias e ferramentas.*
+
+📗 [**Estudo de Frameworks para Pentest em IoT**](https://repositorio.ufsc.br/bitstream/handle/123456789/233132/TCC.pdf?sequence=1)  
+*Trabalho de Conclusão de Curso da UFSC que aborda as principais vulnerabilidades em dispositivos IoT e estuda frameworks de pentest específicos para esses dispositivos.*
+
+📙 [**Apostila Dicas para Pentest**](https://www.passeidireto.com/arquivo/96134490/apostila-dicas-para-pentest)  
+*Um guia abrangente com dicas essenciais para quem está começando na área de pentest.*
+
+📘 [**Pentest em Redes Sem Fio**](https://www.kufunda.net/publicdocs/Pentest%20em%20redes%20sem%20fio%20%28Daniel%20Moreno%29.pdf)  
+*Um PDF detalhado sobre como realizar pentests em redes sem fio.*
+
+---
+
+## 🛠️ 17. Simulação e Emulação de Hardware
+
+🔍 [**Diferença entre Emulação e Simulação**](https://acervolima.com/diferenca-entre-emulacao-e-simulacao/)  
+*Artigo do Acervo Lima explica as diferenças entre emulação e simulação, com exemplos práticos.*
+
+📂 [**Simuladores e Emuladores de Redes de Computadores**](https://docente.ifrn.edu.br/rodrigotertulino/slides-da-apresentacao-na-campus-party-natal-2018)  
+*Apresentação prática sobre os principais simuladores e emuladores de redes, incluindo atividades práticas e configurações.*
+
+🔧 [**Emulador vs Simulador**](https://askanydifference.com/pt/difference-between-emulator-and-simulator/)  
+*Artigo que compara emuladores e simuladores, destacando suas principais diferenças e aplicações.*
+
+---
+
+## 📜 18. Design e Desenvolvimento de Compiladores
+
+📘 [**O que é um design de compilador?**](https://www.guru99.com/pt/compiler-design-tutorial.html)  
+*Este artigo do Guru99 explica os tipos de compiladores, ferramentas de construção e exemplos práticos.*
+
+📗 [**Tutorial de design de compilador para iniciantes**](https://www.guru99.com/pt/compiler-tutorial.html)  
+*Um guia completo que cobre desde os conceitos básicos até os avançados, incluindo análise lexical, sintática e semântica.*
+
+📙 [**Uma breve introdução ao estudo e implementação de compiladores**](https://faef.revista.inf.br/imagens_arquivos/arquivos_destaque/RHXqIjJHvJQhhCK_2013-5-28-11-13-48.pdf)  
+*Artigo que aborda as etapas e fundamentos necessários para a concepção de um compilador, incluindo ferramentas como JavaCC e Jasmin.*
 
 
+### Adicionar 
+
+[****]()
+**
+
+[****]()
+**
+
+[****]()
+**
 
   
