@@ -56,7 +56,7 @@ Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como 
 
 2. **Clone o repositório:** Baixe o projeto para sua máquina local.
    ```bash
-   git clone https://github.com/seu-usuario/roadmap-low-level.git
+   git clone https://github.com/WesleyA0101/Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel.git
    ```
 
 3. **Crie uma branch:** Trabalhe em suas alterações em uma branch separada.
