@@ -1,18 +1,13 @@
-# **🚀 Bitwise Journey: Rumo à Programação de Baixo Nível**
+## **🚀 Bitwise Journey: Rumo à Programação de Baixo Nível**
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjF6M2M1Z2QwaHIyZ252ZXdsbW9mZGwzdzhldHBlaTJhajlsaG0yeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/46hMzlIbVpWPJAWdUY/giphy.webp" width="320" alt="Linux Skull GIF" />
+  <img src="https://th.bing.com/th/id/OIP.3v2OrY66rWxVqUPeFqevQgHaIa?w=156&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="320" alt="Imagem" />
 </div>
 
-<div align="center">
-  <h2>
-    <b>⚡ Uma jornada definitiva para dominar a programação de baixo nível, sistemas operacionais e o mundo open source.</b>
-  </h2>
-  <p>
-    <i>Descubra os fundamentos da computação em sua essência, ideal para estudantes e profissionais apaixonados pela base do desenvolvimento.</i>
-    <i>Este roadmap foi criado pela admiração por **Linus Torvalds** e **Richard Stallman**, gigantes que moldaram o mundo da computação e do software livre. Ele busca resgatar e transmitir o conhecimento profundo e técnico muitas vezes esquecido pela nova geração de "programadores".</i>
-  </p>
-</div>
+### ⚡ Uma jornada definitiva para dominar a programação de baixo nível, sistemas operacionais e o mundo open source.
+
+*Descubra os fundamentos da computação em sua essência, ideal para estudantes e profissionais apaixonados pela base do desenvolvimento.*
+*Este roadmap foi criado pela admiração por **Linus Torvalds** e **Richard Stallman**, gigantes que moldaram o mundo da computação e do software livre. Ele busca resgatar e transmitir o conhecimento profundo e técnico muitas vezes esquecido pela nova geração de "programadores".*
 
 ---
 
@@ -51,6 +46,45 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 </div>
 
 
+### ✨ **Contribua para o Roadmap**: Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel ✨
+
+Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como objetivo ser uma fonte incrível de materiais e direções de aprendizado na área low-level. Se você possui materiais, ideias ou recursos que podem enriquecer o aprendizado de outras pessoas, aqui está sua chance de contribuir!
+
+### Como Contribuir? 
+
+1. **Faça um fork do repositório:** Crie uma cópia do projeto no seu GitHub.
+
+2. **Clone o repositório:** Baixe o projeto para sua máquina local.
+   ```bash
+   git clone https://github.com/seu-usuario/roadmap-low-level.git
+   ```
+
+3. **Crie uma branch:** Trabalhe em suas alterações em uma branch separada.
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+
+4. **Adicione seus materiais:** Inclua recursos como artigos, livros, vídeos, tutoriais ou qualquer outro conteúdo valioso.
+
+5. **Commit e push:** Envie suas alterações para seu fork.
+   ```bash
+   git add .
+   git commit -m "Adicionei novos materiais de estudo."
+   git push origin minha-contribuicao
+   ```
+
+6. **Abra um Pull Request:** Solicite a inclusão das suas contribuições no repositório principal.
+
+### Por que contribuir?
+
+- 🔗 **Colabore com a comunidade:** Compartilhe seu conhecimento e ajude outras pessoas a crescerem na área low-level.
+
+- 🌐 **Construa sua reputação:** Contribuições open-source enriquecem seu portfólio e mostram seu compromisso com o aprendizado e a colaboração.
+
+- ✨ **Faça parte de algo grande:** Ajude a transformar este repositório no maior e mais completo roadmap de estudos low-level!
+
+> **Juntos, podemos levar o conhecimento mais longe e ajudar cada vez mais pessoas a se destacarem nesse mundo, nenhum conhecimento deve ser restrito a ninguém**
+
 ---
 
 ## 📖 **Tabela de Conteúdo**
@@ -80,45 +114,7 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 - [24. Automação e Scripting Avançado](#24-automação-e-scripting-avançado) - Adicionar
 - [25. História da Computação](#25-história-da-computação) - Adicionar
 
-  
 ---
-
-### ✨ **CONTRIBUA PARA O ROADMAP Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel** ✨
-
-Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como objetivo ser uma fonte incrível de materiais e direções de aprendizado na área low-level. Se você possui materiais, ideias ou recursos que podem enriquecer o aprendizado de outras pessoas, aqui está sua chance de contribuir!
-
-### Como Contribuir? 
-1. **Faça um fork do repositório:** Crie uma cópia do projeto no seu GitHub.
-
-2. **Clone o repositório:** Baixe o projeto para sua máquina local.
-   ```bash
-   git clone https://github.com/seu-usuario/roadmap-low-level.git
-   ```
-
-3. **Crie uma branch:** Trabalhe em suas alterações em uma branch separada.
-   ```bash
-   git checkout -b minha-contribuicao
-   ```
-
-4. **Adicione seus materiais:** Inclua recursos como artigos, livros, vídeos, tutoriais ou qualquer outro conteúdo valioso.
-
-5. **Commit e push:** Envie suas alterações para seu fork.
-   ```bash
-   git add .
-   git commit -m "Adicionei novos materiais de estudo."
-   git push origin minha-contribuicao
-   ```
-
-6. **Abra um Pull Request:** Solicite a inclusão das suas contribuições no repositório principal.
-
-### Por que contribuir?
-- 🔗 **Colabore com a comunidade:** Compartilhe seu conhecimento e ajude outras pessoas a crescerem na área low-level.
-
-- 🌐 **Construa sua reputação:** Contribuições open-source enriquecem seu portfólio e mostram seu compromisso com o aprendizado e a colaboração.
-
-- ✨ **Faça parte de algo grande:** Ajude a transformar este repositório no maior e mais completo roadmap de estudos low-level!
-
-> **Juntos, podemos levar o conhecimento mais longe e ajudar cada vez mais pessoas a se destacarem nesse mundo, nenhum conhecimento deve ser restrito a ninguém**
 
 ## 1. 🛠 **Fundamentos Sólidos de Programação e Sistemas Operacionais**
 
