@@ -116,7 +116,7 @@ Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como 
 
 ---
 
-## 1. 🛠 **Fundamentos Sólidos de Programação e Sistemas Operacionais**
+## 1. 🛠 Fundamentos Sólidos de Programação e Sistemas Operacionais
 
 ### 🖥️ Linguagem C/C++
 
@@ -248,7 +248,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 2. ⚙️ **Programação no Baixo Nível (Assembly e Arquitetura)**
+## 2. ⚙️ Programação no Baixo Nível (Assembly e Arquitetura)
 
 ### ⚡ Arquitetura de Computadores
 
@@ -367,7 +367,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 3. 🌐 **Desenvolvimento e Contribuição para Projetos de Baixo Nível, Open Source e software livre**
+## 3. 🌐 Desenvolvimento e Contribuição para Projetos de Baixo Nível, Open Source e software livre
 
 ### 🖥️ **Projetos de Baixo Nível**  
 
@@ -443,7 +443,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 4. 📊 **Computação Avançada e Algoritmos**  
+## 4. 📊 Computação Avançada e Algoritmos  
 
 - 📖 [**Introduction to Algorithms**](https://www.amazon.com.br/Introduction-Algorithms-3rd-MIT/dp/0262033844)  
   *Estruturas de dados e algoritmos em profundidade.*  
@@ -467,7 +467,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 5. 🎨 **Interfaces de Usuário e Desenvolvimento Gráfico**
+## 5. 🎨 Interfaces de Usuário e Desenvolvimento Gráfico
 
 - 📖 [**NCURSES Programming HOWTO**](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)  
   *Criação de interfaces em modo texto.*  
@@ -528,7 +528,7 @@ A linguagem C é uma das linguagens mais fundamentais e amplamente usadas na pro
 
 ---
 
-## 6. 🌐 **Explorar Outras Linguagens para Expansão de Habilidades**
+## 6. 🌐 Explorar Outras Linguagens para Expansão de Habilidades
 
 Expandir suas habilidades em diferentes linguagens de programação não só aumenta sua versatilidade como programador, mas também oferece novas perspectivas e soluções criativas para problemas. Embora C e C++ sejam linguagens poderosas e essenciais para quem trabalha com sistemas, redes e segurança, explorar outras linguagens pode aprimorar sua compreensão de diferentes paradigmas e técnicas de programação.
 
@@ -586,7 +586,7 @@ Para realmente dominar essas linguagens e aprender de maneira eficaz, é importa
 
 ---
 
-# 7. 📜 **Filosofia e Cultura do Software Livre**
+# 7. 📜 Filosofia e Cultura do Software Livre
 
 O movimento de **Software Livre** não é apenas uma questão técnica, mas envolve uma profunda filosofia sobre a liberdade, a privacidade e o controle do usuário sobre as ferramentas tecnológicas que utiliza. Ele está fundamentado na ideia de que o software deve ser livre de restrições, permitindo que os usuários possam usar, estudar, modificar e compartilhar os programas como quiserem.
 
@@ -610,7 +610,7 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
 
 ---
 
-## 8. 📺 **Canais de YouTube sobre Programação e Tecnologia**
+## 8. 📺 Canais de YouTube sobre Programação e Tecnologia
 
 ### ☠️ **[Fabio Akita](https://www.youtube.com/@Akitando)**
 *Um canal de um cara experiente na área, que mostra conceitos importantes e que são negligenciados por muitas fontes de educação.*
@@ -650,7 +650,7 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
 
 ---
 
-## 9. 🎓 **Canais de Cursos sobre Programação e Tecnologia**
+## 9. 🎓 Canais de Cursos sobre Programação e Tecnologia
 
 ### 🌐 **[Udemy](https://www.udemy.com)**
 *Plataforma de cursos online com foco em tecnologia e programação, com uma vasta gama de tópicos.*
@@ -663,7 +663,7 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
 
 ---
 
-## 10. ☠️ **Canais de Cursos no Telegram**
+## 10. ☠️ Canais de Cursos no Telegram
 
 ### 📚 **[C, C++, C#](t.me/+stag3p8cIbFmZGJh)**
 *Canal dedicado a cursos e materiais sobre C, C++ e C#.*
@@ -686,7 +686,7 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
   
 ---
 
-## 11. 🎬 **Filmes e Documentários**
+## 11. 🎬 Filmes e Documentários
 
 ### 🎥 **[Revolution OS](https://www.youtube.com/watch?v=Z3f-M43DiD4&t=680s)**
 *Documentário sobre a história do software livre e o movimento que levou ao surgimento do Linux.*
@@ -699,7 +699,7 @@ O movimento de **Software Livre** não é apenas uma questão técnica, mas envo
   
 ---
 
-## 🐧 12. Material sobre Linux
+## 12. 🐧 Material sobre Linux
 
 Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqui estão alguns recursos úteis que cobrem desde o básico até tópicos mais avançados.
 
@@ -733,7 +733,7 @@ Se você está começando ou quer aprofundar seus conhecimentos sobre Linux, aqu
 
 ---
 
-## 13. 🎨 **Aprendendo a Programar com Games, Guias e tutorias**
+## 13. 🎨 Aprendendo a Programar com Games, Guias e tutorias
 
 Aprenda programação de forma prática e divertida com recursos que combinam aprendizado interativo, desenvolvimento de jogos e guias técnicos avançados.
 
@@ -766,7 +766,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 
 ---
 
-## 14. 💻 **Hacker purista** 
+## 14. 💻 Hacker purista 
 
 
 ### 📜 **A Filosofia do Software Livre e a Ética Hacker**
@@ -920,7 +920,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 
 ---  
 
-## 🔐 16. Segurança e Pentest em Baixo Nível
+## 16. 🔐 Segurança e Pentest em Baixo Nível
 
 📘 [**Um Mapeamento Sistemático sobre Testes de Penetração**](https://www.pucrs.br/facin-prov/wp-content/uploads/sites/19/2016/03/tr084.pdf)  
 *Este documento da PUCRS fornece uma visão geral sobre a área de Pentest, apresentando cenários de aplicação, modelos, metodologias e ferramentas.*
@@ -949,7 +949,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 
 ---
 
-## 📜 18. Design e Desenvolvimento de Compiladores
+## 18. 📜 Design e Desenvolvimento de Compiladores
 
 📘 [**O que é um design de compilador?**](https://www.guru99.com/pt/compiler-design-tutorial.html)  
 *Este artigo do Guru99 explica os tipos de compiladores, ferramentas de construção e exemplos práticos.*
