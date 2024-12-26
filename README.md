@@ -4,7 +4,7 @@
   <img src="https://th.bing.com/th/id/OIP.3v2OrY66rWxVqUPeFqevQgHaIa?w=156&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="320" alt="Imagem" />
 </div>
 
-### ⚡ Uma jornada definitiva para dominar a programação de baixo nível, sistemas operacionais e o mundo open source.
+### ⚡ Uma jornada definitiva para dominar a programação de baixo nível, sistemas operacionais e o mundo open source e software livre.
 
 *Descubra os fundamentos da computação em sua essência, ideal para estudantes e profissionais apaixonados pela base do desenvolvimento.*
 *Este roadmap foi criado pela admiração por **Linus Torvalds** e **Richard Stallman**, gigantes que moldaram o mundo da computação e do software livre. Ele busca resgatar e transmitir o conhecimento profundo e técnico muitas vezes esquecido pela nova geração de "programadores".*
