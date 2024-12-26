@@ -106,7 +106,7 @@ Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como 
 - [16. Segurança e Pentest em Baixo Nível](#16-segurança-e-pentest-em-baixo-nível)
 - [17. Simulação e Emulação de Hardware](#17-simulação-e-emulação-de-hardware)
 - [18. Design e Desenvolvimento de Compiladores](#18-design-e-desenvolvimento-de-compiladores)
-- [19. Sistemas Distribuídos e Alta Performance](#19-sistemas-distribuídos-e-alta-performance) - Adicionar
+- [19. Sistemas Distribuídos e Alta Performance](#19-sistemas-distribuídos-e-alta-performance) 
 - [20. Programação com FPGAs e Hardware Programável](#20-programação-com-fpgas-e-hardware-programável) - Adicionar
 - [21. Ética e Impacto Social na Computação](#21-ética-e-impacto-social-na-computação) - Adicionar
 - [22. Hackathons e Desafios de Programação](#22-hackathons-e-desafios-de-programação) - Adicionar
@@ -961,7 +961,37 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 *Artigo que aborda as etapas e fundamentos necessários para a concepção de um compilador, incluindo ferramentas como JavaCC e Jasmin.*
 
 
-### Adicionar 
+## 19. Sistemas Distribuídos e Alta Performance
+
+> 📙 *Livros*
+
+[**Sistemas Distribuídos: Conceitos e Projeto**](https://www.amazon.com.br/Sistemas-Distribu%C3%ADdos-Conceitos-George-Coulouris/dp/8582600534)
+*George Coulouris, Jean Dollimore, Tim Kindberg.*
+
+[**Sistemas Distribuídos: Princípios e Paradigmas**](https://www.amazon.com.br/Sistemas-distribu%C3%ADdos-princ%C3%ADpios-Andrew-Tanenbaum/dp/8576051427)
+*Andrew S. Tanenbaum, Maarten Van Steen.*
+
+[**Sistemas Distribuídos: Desenvolvendo Aplicações de Alta Performance do Linux**](https://www.amazon.com.br/Sistemas-Distribu%C3%ADdos-Desenvolvendo-Aplica%C3%A7%C3%B5es-Performance/dp/8561893273)
+*Uirá Ribeiro*
+
+> 📜 Artigos e Tutoriais
+
+[**Introdução aos Sistemas Distribuídos**](https://www.freecodecamp.org/portuguese/news/uma-introducao-detalhada-aos-sistemas-distribuidos/)
+*FreeCodecamp*
+
+[**Computação em Grade**](https://www.studocu.com/pt-br/document/universidade-de-sao-paulo/arquitetura-de-computadores/5-computacao-em-grade-prof-fernando-de-siqueira-sistemas-distribuidos/40905147)
+*Computação em Grade - Prof. Fernando De Siqueira*
+
+> 🎥 Cursos e Materiais Online
+
+[**Sistemas e Aplicações Distribuídas**](https://www.udemy.com/course/implementando-sistemas-distribuidos/)
+*Udemy*
+
+[**Curso de Sistemas Distribuídos**](https://gyncursos.com.br/course/curso-de-sistemas-distribuidos/)
+*O Curso de Sistemas Distribuídos irá te ensinar tudo sobre sistemas distribuídos – SD – conceitos, tipos, implementações, principais arquiteturas e muito mais.*
+
+[****]()
+**
 
 [****]()
 **
