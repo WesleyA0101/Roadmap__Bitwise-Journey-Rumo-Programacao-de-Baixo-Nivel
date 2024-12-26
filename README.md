@@ -960,6 +960,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 📙 [**Uma breve introdução ao estudo e implementação de compiladores**](https://faef.revista.inf.br/imagens_arquivos/arquivos_destaque/RHXqIjJHvJQhhCK_2013-5-28-11-13-48.pdf)  
 *Artigo que aborda as etapas e fundamentos necessários para a concepção de um compilador, incluindo ferramentas como JavaCC e Jasmin.*
 
+---
 
 ## 19. Sistemas Distribuídos e Alta Performance
 
