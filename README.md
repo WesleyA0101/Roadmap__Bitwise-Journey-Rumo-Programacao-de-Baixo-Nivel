@@ -962,7 +962,7 @@ Aprenda programação de forma prática e divertida com recursos que combinam ap
 
 ---
 
-## 19. Sistemas Distribuídos e Alta Performance
+## 19. 🖥️ Sistemas Distribuídos e Alta Performance
 
 > 📙 *Livros*
 
