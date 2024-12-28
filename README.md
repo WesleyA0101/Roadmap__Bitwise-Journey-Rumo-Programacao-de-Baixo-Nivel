@@ -97,8 +97,9 @@ Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como 
 ### 🗺️ **Roadmap: Guia Prático de Estudos**
 
 1. **🔑 Entenda os Conceitos Fundamentais:**  
-   - **O que estudar?**  
-     - Bases de lógica de programação: operadores, estruturas condicionais, laços e funções.  
+   - **O que estudar?**
+     - Estude matemática
+     - Bases de lógica de programação: operadores, estruturas condicionais, laços e funções.
      - Introdução ao funcionamento de computadores: bits, bytes, sistemas de numeração (binário, hexadecimal) e arquitetura básica.  
      - Fundamentos de sistemas operacionais: processos, memória, e sistema de arquivos.  
 
