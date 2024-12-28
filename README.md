@@ -31,7 +31,7 @@
 
 Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissional apaixonado por tecnologia, com:  
 - Foco em linguagens como C e C++, e nas distribuições Arch Linux e Trisquel GNU/Linux.  
-- Um compromisso com o compartilhamento de conhecimento e a filosofia Software livre.  
+- Um compromisso com o compartilhamento de conhecimento e a filosofia Software livre.
 
 > 🧠 "A base sólida de hoje é o alicerce para inovações revolucionárias amanhã."  
 
@@ -47,6 +47,13 @@ Este projeto é uma criação de **Wesley Alexsander**, um entusiasta e profissi
 
 
 ### ✨ **Contribua para o Roadmap**: Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel ✨
+
+<div align="center">
+  <a href="https://github.com/WesleyA0101/Roadmap__Bitwise-Journey-Rumo-Programacao-de-Baixo-Nivel" target="_blank">
+    <img src="https://img.shields.io/badge/Contribute-Open%20to%20Contributions-brightgreen?style=for-the-badge&logo=github" alt="Contribute Badge">
+  </a>
+</div>
+
 
 Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como objetivo ser uma fonte incrível de materiais e direções de aprendizado na área low-level. Se você possui materiais, ideias ou recursos que podem enriquecer o aprendizado de outras pessoas, aqui está sua chance de contribuir!
 
@@ -87,6 +94,46 @@ Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como 
 
 ---
 
+### 🗺️ **Roadmap: Guia Prático de Estudos**
+
+1. **🔑 Entenda os Conceitos Fundamentais:**  
+   - **O que estudar?**  
+     - Bases de lógica de programação: operadores, estruturas condicionais, laços e funções.  
+     - Introdução ao funcionamento de computadores: bits, bytes, sistemas de numeração (binário, hexadecimal) e arquitetura básica.  
+     - Fundamentos de sistemas operacionais: processos, memória, e sistema de arquivos.  
+
+   - **Como estudar?**  
+     - **Livros:** "Code: The Hidden Language of Computer Hardware and Software" (Charles Petzold), "Operating Systems: Three Easy Pieces".  
+     - **Cursos Online:** CS50, Introdução à Ciência da Computação pela Universidade de Harvard.
+     - **Prática:** Resolva exercícios básicos de lógica e implemente pequenos programas para consolidar o aprendizado.
+
+2. **⚙️ Aprofunde-se em Sistemas Operacionais:**  
+   - **O que estudar?**  
+     - Conceitos avançados: Gerenciamento de memória, multitarefa, sistemas de arquivos e drivers.
+     - Introdução a kernels: Estruturas, chamadas de sistema e compilação.  
+
+   - **Como estudar?**  
+     - **Livros:** "Modern Operating Systems" (Andrew S. Tanenbaum), "Linux Kernel Development" (Robert Love).  
+     - **Projetos:** Configure e personalize um kernel Linux ou contribua para projetos open source.  
+
+3. **🧵 Construa Projetos Reais em C/C++:**  
+   - **O que estudar?**  
+     - Manipulação de memória, ponteiros, alocação dinâmica e uso de bibliotecas padrão.  
+     - Técnicas de depuração: gdb, valgrind.
+     
+   - **Como estudar?**  
+     - **Projetos:** Desenvolva um pequeno compilador ou emulador.  
+     - **Prática:** Resolva desafios no HackerRank ou Codeforces.  
+
+4. **🌐 Participe da Comunidade Open Source:**  
+   - Contribua para projetos no GitHub relacionados a sistemas operacionais, linguagens ou ferramentas de baixo nível.
+   - Aprenda boas práticas de desenvolvimento colaborativo: Git, controle de versão, e revisão de código.
+
+> **Dica:** Acompanhe o progresso e ajuste sua jornada conforme necessário.
+
+---
+
+
 ## 📖 **Tabela de Conteúdo**
 - [1. Fundamentos Sólidos de Programação e Sistemas Operacionais](#1-fundamentos-sólidos-de-programação-e-sistemas-operacionai)
 - [2. Programação no Baixo Nível (Assembly e Arquitetura)](#2-programação-no-baixo-nível-assembly-e-arquitetura)
@@ -113,6 +160,7 @@ Adoraríamos ter você como parte deste projeto! ✨ Este repositório tem como 
 - [23. Estudos e Leituras Clássicas em Computação](#23-estudos-e-leituras-clássicas-em-computação) - Adicionar
 - [24. Automação e Scripting Avançado](#24-automação-e-scripting-avançado) - Adicionar
 - [25. História da Computação](#25-história-da-computação) - Adicionar
+- [26. Matemática](#26-matemática) - Adicionar
 
 ---
 
